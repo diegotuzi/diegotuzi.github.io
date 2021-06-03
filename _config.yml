@@ -1,1 +1,25 @@
-theme: jekyll-theme-slate
+title: Diego Tuzi Website
+email: diegotuzi@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+url: "https://diegotuzi.github.io/"
+twitter_username: DiegoTuzi
+github_username:  diegotuzi
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
