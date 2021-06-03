@@ -1,11 +1,7 @@
+---
+layout: default
+title: About
+---
+# About page
 
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    {{ content }}
-  </body>
-</html>
+This page tells you a little bit about me.
