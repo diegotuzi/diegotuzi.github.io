@@ -45,3 +45,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+sass:
+  sass_dir: assets/css
