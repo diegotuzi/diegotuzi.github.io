@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-baseurl: "/engineer" # the subpath of your site, e.g. /blog
+baseurl: "/engineer"
 lsi: false
 safe: true
 source: [your repo's top level directory]
