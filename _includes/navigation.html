@@ -5,7 +5,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             {% for item in site.data.navigation %}
-            <li class="nav-item"><a class="nav-link" href="{{ item.link }}" {% if page.url == item.link %}class="active"{% endif %}>{{ item.name }}</a>
+            <li class="nav-item"><a href="{{ item.link }}" {% if page.url == item.link %} class="nav-link active" {% else %} class="nav-link" {% endif %}>{{ item.name }}</a>
             {% endfor %}
           </ul>
       </div>
