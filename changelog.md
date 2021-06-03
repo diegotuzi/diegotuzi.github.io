@@ -6,6 +6,13 @@ title: Changelog
     <h1>Changelog + References</h1>
 </div>
 <hr />
+<h2>0.3 2021-06-03</h2>
+<h3>Jekyll and Blog</h3>
+<ul>
+    <li>insert Blog page with Jekyll, Markdown and Liquid</li>
+    <li><a href=https://jekyllrb.com/docs/step-by-step/01-setup>https://jekyllrb.com/docs/step-by-step/01-setup/</a></li>
+    <li><a href=https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9>https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9</a></li>
+</ul>
 <h2>0.2 2021-06-02</h2>
 <h3>Tracking activities</h3>
 <ul>
