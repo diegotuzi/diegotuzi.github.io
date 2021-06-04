@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-# Changelog + References
+# Changelog
 ---
 ## 0.3 2021-06-03
 ### Jekyll and Blog
