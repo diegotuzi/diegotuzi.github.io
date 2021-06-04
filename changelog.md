@@ -6,6 +6,7 @@ title: Changelog
 ---
 ## 0.3 2021-06-03
 ### Jekyll and Blog
+* Insert a Blog page
 * From "pure Html and Bootstrap template" to "Jekyll and pure Bootstrap 4" (using Markdown and Liquid)
 * Step by step guide to configure Jekyll [https://jekyllrb.com/docs/step-by-step/01-setup](https://jekyllrb.com/docs/step-by-step/01-setup)
 * Several info to include bootstrap inside Jekyll [https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9](https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9)
