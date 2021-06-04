@@ -4,7 +4,7 @@ title: Changelog
 ---
 # Changelog
 ---
-## 0.3 2021-06-03
+## 0.3 2021-06-04
 ### Jekyll and Blog
 * Insert a Blog page (Jekyll, Markdown, Liquid)
 * Step by step guide to configure Jekyll [[2]](https://jekyllrb.com/docs/step-by-step/01-setup)
