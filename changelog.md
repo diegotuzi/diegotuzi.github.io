@@ -11,6 +11,7 @@ title: Changelog
 * Step by step guide to configure Jekyll [https://jekyllrb.com/docs/step-by-step/01-setup](https://jekyllrb.com/docs/step-by-step/01-setup)
 * Several info to include bootstrap inside Jekyll [https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9](https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9)
 * Markdown basic sintax [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+* Insert footer from [https://mdbootstrap.com/docs/standard/navigation/footer/](https://mdbootstrap.com/docs/standard/navigation/footer/)
 
 ## 0.2 2021-06-02
 ### Tracking activities
