@@ -6,12 +6,11 @@ title: Changelog
 ---
 ## 0.3 2021-06-03
 ### Jekyll and Blog
-* Insert a Blog page
-* From "pure Html and Bootstrap template" to "Jekyll and pure Bootstrap 4" (using Markdown and Liquid)
+* Insert a Blog page (Jekyll, Markdown, Liquid)
 * Step by step guide to configure Jekyll [[2]](https://jekyllrb.com/docs/step-by-step/01-setup)
-* Several info to include bootstrap inside Jekyll [[3]](https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9)
-* Markdown basic sintax [[4]](https://www.markdownguide.org/basic-syntax/)
-* Insert footer from [[5]](https://mdbootstrap.com/docs/standard/navigation/footer/)
+* Including Bootstrap into Jekyll [[3]](https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9)
+* Some Markdown basic sintax [[4]](https://www.markdownguide.org/basic-syntax/)
+* Insert footer starting from a template [[5]](https://mdbootstrap.com/docs/standard/navigation/footer/)
 
 ## 0.2 2021-06-02
 ### Tracking activities
