@@ -5,10 +5,10 @@ title: Changelog
 # Changelog + References
 ---
 ## 0.3 2021-06-03
-### Jekyll and Blog</h3>
+### Jekyll and Blog
 * insert Blog page with Jekyll, Markdown and Liquid
-* [link] (https://jekyllrb.com/docs/step-by-step/01-setup)
-* [link] (https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9)
+* [link](https://jekyllrb.com/docs/step-by-step/01-setup)
+* [link](https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9)
 
 <h2>0.2 2021-06-02</h2>
 <h3>Tracking activities</h3>
