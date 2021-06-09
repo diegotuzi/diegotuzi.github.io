@@ -40,7 +40,7 @@ defaults:
     values:
       layout: "post"
   - scope:
-      path: ""
+      path: "assets/img"
     values:
       layout: "default"
 
