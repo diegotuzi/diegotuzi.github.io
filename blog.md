@@ -3,8 +3,8 @@ layout: default
 title: Blog
 ---
 
-<h1>Latest Posts</h1>
-<hr>
+# Latest Posts
+---
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>

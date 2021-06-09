@@ -9,6 +9,7 @@ title: Changelog
 ### Jekyll and Blog
 * Insert a Blog page (Jekyll, Markdown, Liquid)
 * Step by step guide to configure Jekyll [[2]](https://jekyllrb.com/docs/step-by-step/01-setup)
+* Including Bootstrap into Jekyll [[3]](https://betterprogramming.pub/an-introduction-to-using-jekyll-with-bootstrap-4-6f2433afeda9)
 * Some Markdown basic sintax [[4]](https://www.markdownguide.org/basic-syntax/)
 * Insert footer starting from a template [[5]](https://mdbootstrap.com/docs/standard/navigation/footer/)
 
