@@ -40,9 +40,13 @@ defaults:
     values:
       layout: "post"
   - scope:
-      path: "assets/img"
+      path: ""
     values:
       layout: "default"
+  - scope:
+      path: ""
+    values:
+      image: "true"
 
 sass:
   sass_dir: assets/css
