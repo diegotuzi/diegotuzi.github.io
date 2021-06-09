@@ -8,7 +8,7 @@ title: Changelog
 ## 0.4 2021-06-09
 ### Jekyll and Blog
 * Blog page updated with Jekyll's tags [[6]](https://jekyllrb.com/docs/posts/)
-* Installed Jekyll and its dependencies on a Ubuntu Virtual Machine to test website locally before commit.
+* Installed Jekyll and its dependencies on a Ubuntu Virtual Machine to test website locally before to commit.
 
 
 ## 0.3 2021-06-04
