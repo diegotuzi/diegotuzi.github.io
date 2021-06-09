@@ -6,7 +6,7 @@ title: Changelog
 # Changelog
 ---
 ## 0.4 2021-06-09
-### Jekyll and Blog
+### Categorize posts with a tag
 * Blog page updated with Jekyll's tags [[6]](https://jekyllrb.com/docs/posts/)
 * Installed Jekyll and its dependencies on a Ubuntu Virtual Machine to test website locally before to commit.
 
