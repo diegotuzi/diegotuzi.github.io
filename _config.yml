@@ -27,7 +27,7 @@ kramdown:
 collections:
   authors:
     output: true
-
+    
 defaults:
   - scope:
       path: ""
