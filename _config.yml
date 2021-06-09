@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: ""
+      path: "assets/img"
     values:
       image: "true"
 
