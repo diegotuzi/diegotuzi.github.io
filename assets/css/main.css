@@ -3,8 +3,8 @@
   }
 
   body {
-    /* to fix navbar always on top*/
+    /* v0.5 to fix navbar always on top*/
     padding-top: 70px;
-    /* to fix navbar shifts*/
+    /* v0.5 to fix navbar shifts*/
     overflow: scroll;
   }

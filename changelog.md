@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 ---
+## 0.5 2021-06-11
+### Navbar fixing
+* A little of CSS to fix navbar on top during page scrolling
+* A little of CSS to fix navbar shift in different pages
+
 ## 0.4 2021-06-09
 ### Categorize posts with a tag
 * Blog page updated with Jekyll's tags [[6]](https://jekyllrb.com/docs/posts/)
