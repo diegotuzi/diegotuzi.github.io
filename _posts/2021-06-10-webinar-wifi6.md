@@ -11,7 +11,7 @@ Thanks to this webinar I had on overview of IEEE 802.11AX standard named "Wi-Fi 
 
 <img src="/assets/img/2021-06-10-webinar-keysight-wifi6.jpg" class="img-fluid" alt="webinar-keysight-wifi6">
 
-For further information visit the [Keysight Engineering Education Webinar Series](https://www.keysight.com/it/en/events/europe-middleeast-africa-india/webinars.html?partnerref=ON24referral).
+For further information about Keysight webinars visit the [Keysight Engineering Education Webinar Series](https://www.keysight.com/it/en/events/europe-middleeast-africa-india/webinars.html?partnerref=ON24referral) web page.
 
 Acquired and consolidated skills:
 * IEEE 802.11AX Wi-Fi 6 overview
