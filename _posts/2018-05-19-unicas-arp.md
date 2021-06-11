@@ -4,12 +4,13 @@ title: Coil Antenna design with Feko
 author: dt
 tag: "Academic Projects"
 ---
-### Course Project for "Antennas and Radiowave Propagation"
-#### Prof. M.D. Migliore
+#### Course Project for "Antennas and Radiowave Propagation"
 ##### University of Cassino and Southern Lazio - Academic Year 2018
 
 As a student of University of Cassino and Southern Lazio, I realized this project insideProf. M.D. Migliore Prof. Gianfranco Miele.
 The project is a “Coil Antenna design” using the Feko software. 
+
+<img src="/assets/img/2018-05-29_unicas_arp_coil_antenna_project.jpg" class="img-fluid" alt="webinar-keysight-wifi6">
 
 Acquired and consolidated skills:
 * Antenna Design 

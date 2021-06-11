@@ -1,3 +1,10 @@
 .current {
     color: green;
   }
+
+  body {
+    /* to fix navbar always on top*/
+    padding-top: 70px;
+    /* to fix navbar shifts*/
+    overflow: scroll;
+  }
