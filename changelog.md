@@ -7,6 +7,7 @@ title: Changelog
 ---
 ## 0.5 2021-06-11
 ### Navbar fixing
+* Resume page updated (bootstrap template removed)
 * A little of CSS to fix navbar on top during page scrolling
 * A little of CSS to fix navbar shift in different pages
 

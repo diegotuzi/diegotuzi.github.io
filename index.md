@@ -10,6 +10,7 @@ Welcome to my website. I’m Diego Tuzi an enthusiastic guy who loves digital te
 This website is just a way to practice Web languages and English language. 
 
 There is [Blog](blog.html) section where you can find interesting posts.
+
 To better know my professional activity, you can see my [Resume](resume.html) page.
 
 Feel free to send any feedback to [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com).

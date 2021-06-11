@@ -4,7 +4,7 @@ title: Spectrum Characterization and Occupancy Sensing (SCOS) application
 author: dt
 tag: "Academic Projects"
 ---
-### Course Project for "Instrumentation and Measurements for Communication Systems"
+#### Course Project for "Instrumentation and Measurements for Communication Systems"
 ##### University of Cassino and Southern Lazio - Academic Year 2018
 
 As a student of University of Cassino and Southern Lazio, I and other teammates developed this project inside the master course "Instrumentation and Measurements for Communication Systems" held by Prof. Gianfranco Miele.
