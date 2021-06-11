@@ -1,10 +1,10 @@
 .current {
-    color: green;
-  }
+  color: green;
+}
 
-  body {
-    /* v0.5 to fix navbar always on top*/
-    padding-top: 70px;
-    /* v0.5 to fix navbar shifts*/
-    overflow: scroll;
-  }
+body {
+  /* v0.5 to fix navbar always on top*/
+  padding-top: 70px;
+  /* v0.5 to fix navbar shifts*/
+  overflow: scroll;
+}
