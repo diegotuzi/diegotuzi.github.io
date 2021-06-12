@@ -13,7 +13,7 @@ As a student of University of Cassino and Southern Lazio, I realized several rep
 
 Acquired and consolidated skills:
 * [Pspice](https://www.pspice.com/)
-* [Matlab](https://it.mathworks.com/products/matlab.html)
+* Matlab
 * Labs instruments: Power Supply, RF Signal Generator, Oscilloscope, Network Analyzer, Spectrum Analyzer 
 
 Resources:

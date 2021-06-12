@@ -17,7 +17,7 @@ Acquired and consolidated skills:
 * 5G Dynamic spectrum Sharing
 * Lab Instruments: Network Scanner R&S TSMA6, Spectrum Analyzer 
 * R&S ROMES 4
-* [Matlab](https://it.mathworks.com/products/matlab.html)
+* Matlab
 * Python
 * Libre Office Suite
 * Zotero

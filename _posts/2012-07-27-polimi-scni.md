@@ -19,8 +19,8 @@ Acquired and consolidated skills:
 * Bluetooth Android API
 * Java
 * Eclipse IDE
-* [Matlab](https://it.mathworks.com/products/matlab.html)
+* Matlab
 * Microsoft Office
 
 Resources:
-* [Android Bluetooth Ranging Presentation](/assets/pdf/2018-06-03_unicas_imcs_scos_user_manual.pdf).
+* [Android Bluetooth Ranging Presentation](/assets/pdf/2018-06-03_unicas_imcs_scos_user_manual.pdf)

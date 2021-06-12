@@ -15,7 +15,7 @@ The project is a “Coil Antenna design” using the Feko software.
 Acquired and consolidated skills:
 * Antenna Design 
 * [Feko](https://www.altair.com/feko/)
-* [Matlab](https://it.mathworks.com/products/matlab.html)
+* Matlab
 
 Resources:
-* [Coil Antenna Design project](/assets/pdf/2018-05-29_unicas_arp_coil_antenna_project.pdf).
+* [Coil Antenna Design project](/assets/pdf/2018-05-29_unicas_arp_coil_antenna_project.pdf)

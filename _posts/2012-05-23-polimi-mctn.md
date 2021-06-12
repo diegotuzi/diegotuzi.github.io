@@ -18,4 +18,4 @@ Acquired and consolidated skills:
 * Matlab and Simulink
 
 Resources:
-* [Project repository](https://github.com/diegotuzi/trellis-coded-modulation.git).
+* [Project repository](https://github.com/diegotuzi/trellis-coded-modulation.git)
