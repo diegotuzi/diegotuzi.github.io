@@ -3,14 +3,10 @@ layout: default
 title: Homepage
 ---
 
-<div class="row">
-    <div class="col-sm text-center">
-        <img src="/assets/img/profile.jpg" alt="Avatar" class="avatar">
-    </div>
-    <div class="col-sm text-center">
-      <h1>Diego Tuzi Website</h1>
-      <h3>Just a way to practice Web and English</h3>
-    </div>
+<div class="text-center">
+    <img src="/assets/img/profile.jpg" alt="Avatar" class="img-fluid img-thumbnail rounded-circle ">
+    <h1>Diego Tuzi Website</h1>
+    <h3>Just a way to practice Web and English</h3>
 </div>
 
 ---
