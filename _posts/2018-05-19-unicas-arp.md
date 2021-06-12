@@ -5,7 +5,7 @@ author: dt
 tag: "Academic Projects"
 ---
 #### Course Project for "Antennas and Radiowave Propagation"
-##### University of Cassino and Southern Lazio - Academic Year 2018
+##### University of Cassino and Southern Lazio - Academic Year 2018/2019
 
 As a student of University of Cassino and Southern Lazio, I realized this project insideProf. M.D. Migliore Prof. Gianfranco Miele.
 The project is a “Coil Antenna design” using the Feko software. 

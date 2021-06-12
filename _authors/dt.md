@@ -1,6 +1,6 @@
 ---
 short_name: dt
 name: Diego Tuzi
-position: Chief Editor
+position: Admin
 ---
-Jill is an avid fruit grower based in the south of France.
+Diego Tuzi is a Telecom Engineer. I'm writing for fun.

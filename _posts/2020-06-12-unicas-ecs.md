@@ -9,6 +9,8 @@ tag: "Academic Projects"
 
 As a student of University of Cassino and Southern Lazio, I realized several reports inside the master course "Electronics for Communication Systems" held by Prof. G. Busatto and Prof. C. Abbate.
 
+<img src="/assets/img/2020-06-12-unicas-ecs.jpg" class="img-fluid" alt="lab-example">
+
 Acquired and consolidated skills:
 * [Pspice](https://www.pspice.com/)
 * [Matlab](https://it.mathworks.com/products/matlab.html)
