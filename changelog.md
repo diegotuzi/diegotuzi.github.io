@@ -5,8 +5,14 @@ title: Changelog
 
 # Changelog
 ---
+
+
+## 0.6 2021-06-12
+### Favicon
+* Custom favicon [7](https://favicon.io/favicon-generator/)
+
 ## 0.5 2021-06-11
-### Navbar fixing
+### Navbar fixing and resume page simplified
 * Resume page updated (bootstrap template removed)
 * A little of CSS to fix navbar on top during page scrolling
 * A little of CSS to fix navbar shift in different pages
