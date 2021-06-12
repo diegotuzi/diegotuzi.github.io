@@ -10,11 +10,12 @@ title: Homepage
 </div>
 
 ---
-Welcome to my website. I’m Diego Tuzi an enthusiastic guy who loves digital technologies. I am an Engineer with a bachelor and a master degree in Telecommunications. 
-This website is just a way to practice Web languages and English language. 
+Welcome to my Website. I’m Diego Tuzi an enthusiastic guy who loves digital technologies. I am an Engineer with a bachelor and a master degree in Telecommunications. 
+This Website is just a way to practice Web languages and English language. 
 
-There is [Blog](blog.html) section where you can find interesting posts.
+Inside this website you can find:
+* [Blog section](blog.html): It contains several interesting posts about my academic and personal activities;
+* [Resume section](resume.html): It contains an updated version of my Resume;
+* [Changelog section](changelog.html): It is a log section where I can track the website development updates.
 
-To better know my professional activity, you can see my [Resume](resume.html) page.
-
-Feel free to send any feedback to [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com).
+Feel free to send any feedback about this Website.
