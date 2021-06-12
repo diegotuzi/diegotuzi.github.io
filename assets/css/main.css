@@ -2,6 +2,14 @@
   color: green;
 }
 
+.avatar
+{
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
 body {
   /* v0.5 to fix navbar always on top*/
   padding-top: 70px;
