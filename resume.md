@@ -6,7 +6,7 @@ title: Resume
 Diego Tuzi
 ==========
 
-03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com)
+03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
 ---
 *I am an engineer with a great passion for telecommunications networks. I have been studying and working in this field for more than 10 years. I'm looking for a job that allows me to be in contact with the technologies that will create the future networks.*
@@ -20,6 +20,8 @@ February 2014 - Present<br>
 **TECHNICAL AND ADMINISTRATIVE MANAGER (FULL-TIME)**<br>
 TATEL S.R.L. Sora (FR) Italy
 
+* Management and supervision of entire telecommunication towers building processes
+* Installation and Maintenance management of telecommunication systems
 * Electromagnetic impact analysis: Broadband measurements to measure exposure to electromagnetic fields.
 * Regional SFN DVB-T (terrestrial broadcast TV service) network design for Lazio and Abruzzo (more than 80 sites involved).
 * Hyperlan 5GHz wireless networks design for monitoring purposes (L2 and also L3 network with OSPF routing protocol) with low cost devices.
@@ -121,11 +123,10 @@ Certifications and Technical trainings
 Language skills
 ------
 
-* Mother tongue: 
-    * Italian
-* Other language:
-    * English - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
-        * Listening: B2 - Independent user
-        * Reading: C1 - Proficient user
-        * Spoken: B2 - Independent user
-        * Writing: B2 - Independent user
+Italian (Mother tongue)
+
+English - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+* Listening: B2 - Independent user
+* Reading: C1 - Proficient user
+* Spoken: B2 - Independent user
+* Writing: B2 - Independent user

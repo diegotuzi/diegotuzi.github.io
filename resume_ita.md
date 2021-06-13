@@ -6,7 +6,7 @@ title: Resume
 Diego Tuzi
 ==========
 
-03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com)
+03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
 --- 
 *Sono un ingegnere con una grande passione per le reti di telecomunicazioni. Studio e lavoro in questo campo da più di 10 anni. Cerco un lavoro che mi permetta di essere in contatto con le tecnologie che realizzeranno le reti di telecomunicazioni future.*
@@ -17,7 +17,7 @@ Esperienza professionale
 ----------
 
 Feb 2014 - Oggi<br>
-**Responsabile Area Tecnico Amministrativa (full-time)**<br>
+**RESPONSABILE AREA TECNICO AMMINISTRATIVA (FULL-TIME)**<br>
 TATEL S.R.L. Sora (FR) Italia
 
 * Intera gestione e supervisione di attività di realizzazione di infrastrutture di telecomunicazioni.
@@ -29,7 +29,7 @@ TATEL S.R.L. Sora (FR) Italia
 * Realizzazione di server dati con software opensource (samba,  mdadm, centos 7).
 
 Gen 2007 - Feb 2014<br>
-**Tecnico audio/video (part-time)**<br>
+**TECNICO AUDIO/VIDEO (PART-TIME)**<br>
 VOCE DEL LAZIO RADIOTELEVISIONE S.R.L. Sora (FR) Italia
 
 * Installazione e configurazione di sistemi di automazione radiofonica (MBSTUDIO  Mbsoft).
@@ -51,7 +51,7 @@ Istruzione e formazione
 ----------
 
 Set 2017 - 29 Apr 2021<br>
-**Laurea Magistrale in Inglese Telecommunications Engineering**<br>
+**LAUREA MAGISTRALE IN TELECOMMUNICATIONS ENGINEERING**<br>
 UNIVERSITÀ DEGLI STUDI DI CASSINO E DEL LAZIO MERIDIONALE Cassino (FR) Italy
 
 * Voto di laurea 108/110, CFU conseguiti  presso l’ateneo 35/120.
@@ -60,7 +60,7 @@ UNIVERSITÀ DEGLI STUDI DI CASSINO E DEL LAZIO MERIDIONALE Cassino (FR) Italy
 * Corsi rilevanti al Politecnico di Milano (2011-2013): Switching and Routing, Wireless Networks, Internet Of Things, Network Security and Cryptography, Network Design, Audio and Video Signals, Digital Communication, Data Bases, Localization Navigation and Smart Mobility.
 
 Settembre 2006 - Luglio 2010<br>
-**Laurea Triennale in Ingegneria delle Telecomunicazioni**<br>
+**LAUREA TRIENNALE IN INGEGNERIA DELLE TELECOMUNICAZIONI**<br>
 UNIVERSITÀ DEGLI STUDI DELL’AQUILA L'Aquila (AQ) Italy
 
 * Voto di laurea 110/110.
@@ -98,7 +98,7 @@ DIGITAL BASICS
 
 ---
 
-Certifications and Technical trainings
+Certificazioni e Training tecnico
 ------
 
 * [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
@@ -120,14 +120,13 @@ Certifications and Technical trainings
 
 ---
 
-Language skills
+Competenze linguistiche
 ------
 
-* Lingua madre: 
-    * Italiano
-* Altre lingue:
-    * Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
-        * Ascolto: B2 - Independent user
-        * Lettura: C1 - Proficient user
-        * Interazione orale: B2 - Independent user
-        * Scrittura: B2 - Independent user
+Italiano (madrelingua)
+
+Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+* Ascolto: B2 - Independent user
+* Lettura: C1 - Proficient user
+* Interazione orale: B2 - Independent user
+* Scrittura: B2 - Independent user
