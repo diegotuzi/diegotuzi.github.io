@@ -102,6 +102,19 @@ LAB INSTRUMENTS
 
 ---
 
+Competenze linguistiche
+------
+
+Italiano (madrelingua)
+
+Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+* Ascolto: B2 - Independent user
+* Lettura: C1 - Proficient user
+* Interazione orale: B2 - Independent user
+* Scrittura: B2 - Independent user
+
+---
+
 Certificazioni e Training tecnico
 ------
 
@@ -121,16 +134,4 @@ Certificazioni e Training tecnico
 * 2017 - MikroTik - MikroTik Certified Routing Engineer (MTCRE)
 * 2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
-
----
-
-Competenze linguistiche
-------
-
-Italiano (madrelingua)
-
-Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
-* Ascolto: B2 - Independent user
-* Lettura: C1 - Proficient user
-* Interazione orale: B2 - Independent user
-* Scrittura: B2 - Independent user
+* 2012 - TELECOM ITALIA SPA (formazione interna) - Percorso di alta formazione specialistica su Reti Fisse e Mobili (IPV4, IPV6, architettura rete fissa e mobile, NGAN, LTE, IPTBV, Cloud, Economics, Market, Routing)
