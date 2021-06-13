@@ -21,8 +21,8 @@ February 2014 - Present<br>
 **TECHNICAL AND ADMINISTRATIVE MANAGER (FULL-TIME)**<br>
 TATEL S.R.L. Sora (FR) Italy
 
-* Management and supervision of entire telecommunication towers building processes
-* Installation and Maintenance management of telecommunication systems
+* Management and supervision of entire telecommunication towers building processes.
+* Installation and Maintenance management of telecommunication systems.
 * Electromagnetic impact analysis: Broadband measurements to measure exposure to electromagnetic fields.
 * Regional SFN DVB-T (terrestrial broadcast TV service) network design for Lazio and Abruzzo (more than 80 sites involved).
 * Hyperlan 5GHz wireless networks design for monitoring purposes (L2 and also L3 network with OSPF routing protocol) with low cost devices.
