@@ -4,6 +4,7 @@ title: Changelog
 ---
 
 # Changelog
+As a developer I really like tracking my activities. This section is a changelog of website structure. It can be useful for people interested in developing a similar project.
 ---
 
 
