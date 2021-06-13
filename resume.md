@@ -9,6 +9,7 @@ Diego Tuzi
 03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
 ---
+
 *I am an engineer with a great passion for telecommunications networks. I have been studying and working in this field for more than 10 years. I'm looking for a job that allows me to be in contact with the technologies that will create the future networks.*
 
 ---
@@ -72,29 +73,33 @@ UNIVERSITÀ DEGLI STUDI DELL’AQUILA L'Aquila (AQ) Italy
 Skills
 ------
 
+NETWORKING
+* DHCP, Bridging, Routing, Wireless, Firewall, QoS, Tunnels, Static Routing, Point to Point Addressing, VPN, OSPF
+* Basics of Cybersecurity: Threats, attacks and vulnerabilities
+* Video surveillance and Monitoring Applications
+
 RADIO FREQUENCY (RF) FIELD
 * Human Exposure to RF field measurements (Broadband, Frequency Selective)
 * Emlab Software (design of antenna systems, calculation of radioelectric coverage)
 * Familiar with Standards CEI 211-7, CEI 211-10, IEC 62232
 * Familiar with ICNIRP Guidelines 2020, 1998
+* Antenna Design
 
 RADIO FREQUENCY (RF) TECHNOLOGIES
 * 5G New Radio, DSS, 4G LTE
 * Basics of 2G and 3G (RAN and Core Network)
 * Digital Video Broadcasting Terrestrial (DVB-T/T2), Digital audio broadcasting (DAB), FM audio broadcasting
 * Basic understanding of other Wireless Technologies
-
-NETWORKING
-* DHCP, Bridging, Routing, Wireless, Firewall, QoS, Tunnels, Static Routing, Point to Point Addressing, VPN, OSPF
-* Cisco Packet Tracer
-* Basics of Cybersecurity: Threats, attacks and vulnerabilities
-* Video surveillance and Monitoring Applications
+* Digital modulations, Software Defined Radio (SDR), Localization systems
 
 DIGITAL BASICS
-* Linux: installation and configuration, Basics of the Command Line Interface (CLI), virtual machines
-* Linux servers (centos, ubuntu): raid software (mdadm), data share (samba)
-* Familiar with Microsoft Windows, Browsers, Social media, Office Suites (Microsoft and Libre Office)
-* Video surveillance and Monitoring Applications
+* Windows OS, Linux OS Desktop (ubuntu, mint), Linux OS Server (centos, ubuntu)
+* Browsers, Social media, Microsoft Office, Libre Office, Zotero, Gimp, Blackmagic Davinci Resolve
+* Pspice, Matlab, Matlab GUI, Simulink, GNU Radio, Altair Feko, R&S ROMES 4, Cisco Packet Tracer
+* C++, Java, Python, PHP, CSS, HTML, Markdown, Liquid, VBA, SQL, Eclipse, Visual Studio, Visual Studio Code, PyCharm
+
+LAB INSTRUMENTS
+* Power Supply, RF Signal Generator, Oscilloscope, Network Analyzer, Spectrum Analyzer, Network Scanner R&S TSMA6
 
 ---
 
