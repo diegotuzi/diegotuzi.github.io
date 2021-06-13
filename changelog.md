@@ -8,7 +8,6 @@ As a developer I really like tracking my activities. This section is a changelog
 
 ---
 
-
 ## 0.6 2021-06-12
 ### Favicon
 * Custom favicon [[7]](https://favicon.io/favicon-generator/)

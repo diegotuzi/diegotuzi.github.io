@@ -99,6 +99,7 @@ DIGITAL BASICS
 Certifications and Technical trainings
 ------
 
+* [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
 * 2020 - Keysight Technologies - Understanding 5G New Radio (NR) Standards - A Primer
 * 2020 - Keysight Technologies - Understanding 5G Dynamic Spectrum Sharing (DSS)
 * 2020 - Keysight Technologies - O-RAN: The 5G Path Forward

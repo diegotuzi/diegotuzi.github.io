@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Wifi6 - Wait and See or Act Today"
+title: "Wi-Fi 6 - Wait and See or Act Today"
 author: dt
 tag: "Webinar"
 ---
 #### Keysight Technologies Digital Event
 
-I attended the Webinar "Wifi6 - Wait and See or Act Today". Keshav Sudial held the webinar. Keshav Sudial is a Pre-Sales Application Engineer inside Network Solutions and Sales at Keysight Technologies.
+I attended the Webinar "Wi-Fi 6 - Wait and See or Act Today". Keshav Sudial held the webinar. Keshav Sudial is a Pre-Sales Application Engineer inside Network Solutions and Sales at Keysight Technologies.
 Thanks to this webinar I had on overview of IEEE 802.11AX standard named "Wi-Fi 6".
 
 <img src="/assets/img/2021-06-10-webinar-keysight-wifi6.jpg" class="img-fluid" alt="webinar-keysight-wifi6">
