@@ -20,6 +20,8 @@ Feb 2014 - Oggi<br>
 **Responsabile Area Tecnico Amministrativa (full-time)**<br>
 TATEL S.R.L. Sora (FR) Italia
 
+* Intera gestione e supervisione di attività di realizzazione di infrastrutture di telecomunicazioni.
+* Gestione attività di manutenzione su impianti di telecomunicazioni.
 * Analisi di impatto elettromagnetico: misure a banda larga per esposizione umana ai campi elettromagnetici a radiofrequenza.
 * Pianificazione reti SFN DVB-T/T2 per Lazio ed Abruzzo (più di 80 siti coinvolti).
 * Pianificazione di rete di monitoraggio in Hyperlan 5GHz (rete L2 ed L3 con protocollo di routing OSPF) realizzata con dispositivi Mikrotik.
@@ -53,7 +55,7 @@ Set 2017 - 29 Apr 2021<br>
 UNIVERSITÀ DEGLI STUDI DI CASSINO E DEL LAZIO MERIDIONALE Cassino (FR) Italy
 
 * Voto di laurea 108/110, CFU conseguiti  presso l’ateneo 35/120.
-* Tesi: Segnali di Controllo 4G e 5G – Analisi di Stabilità, Limiti e Misure dei campi elettromagnetici, Rete di Accesso 4G/5G, Proposte di estrapolazione a massima potenza per segnali 5G, 5G drive test, misure di SS-RSRP su sistemi 5G
+* Tesi: [Segnali di Controllo 4G e 5G – Analisi di Stabilità](https://diegotuzi.github.io/2021/04/29/unicas-thesis.html), Limiti e Misure dei campi elettromagnetici, Rete di Accesso 4G/5G, Proposte di estrapolazione a massima potenza per segnali 5G, 5G drive test, misure di SS-RSRP su sistemi 5G
 * Corsi rilevanti: Electronics for Communication Systems, Electromagnetic Field Theory,  Antennas and Radiowave Propagation,  Instrumentation and Measurements for Communication Systems.
 * Corsi rilevanti al Politecnico di Milano (2011-2013): Switching and Routing, Wireless Networks, Internet Of Things, Network Security and Cryptography, Network Design, Audio and Video Signals, Digital Communication, Data Bases, Localization Navigation and Smart Mobility.
 
@@ -91,7 +93,7 @@ NETWORKING
 DIGITAL BASICS
 * Linux: installation and configuration, Basics of the Command Line Interface (CLI), virtual machines
 * Linux servers (centos, ubuntu): raid software (mdadm), data share (samba)
-* Familiar with Microsoft Windows, Browsers, Social media, Office Suites ((Microsoft and Libre Office)
+* Familiar with Microsoft Windows, Browsers, Social media, Office Suites (Microsoft and Libre Office)
 * Video surveillance and Monitoring Applications
 
 ---
@@ -115,3 +117,17 @@ Certifications and Technical trainings
 * 2017 - MikroTik - MikroTik Certified Routing Engineer (MTCRE)
 * 2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
+
+---
+
+Language skills
+------
+
+* Lingua madre: 
+    * Italiano
+* Altre lingue:
+    * Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+        * Ascolto: B2 - Independent user
+        * Lettura: C1 - Proficient user
+        * Interazione orale: B2 - Independent user
+        * Scrittura: B2 - Independent user

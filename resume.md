@@ -53,7 +53,7 @@ September 2017 - 29 April 2021<br>
 UNIVERSITÀ DEGLI STUDI DI CASSINO E DEL LAZIO MERIDIONALE Cassino (FR) Italy
 
 * Score: 108/110
-* Thesis work: 4G and 5G control signals – Stability Analysis, EMF limits and measurements, 4G and 5G access network technical review, 5G maximum extrapolation proposals, 5G drive test, 5G measurement SS-RSRP.
+* Thesis work: [4G and 5G control signals – Stability Analysis](https://diegotuzi.github.io/2021/04/29/unicas-thesis.html), EMF limits and measurements, 4G and 5G access network technical review, 5G maximum extrapolation proposals, 5G drive test, 5G measurement SS-RSRP.
 * Relevant coursework (CFU: 35/120): Electronics for Communication Systems, Electromagnetic Field Theory, Antennas and Radiowave Propagation, Instrumentation and Measurements for Communication Systems.
 * Relevant coursework at Politecnico di Milano (CFU: 85/120): Switching and Routing, Wireless Networks, Internet Of Things, Network Security and Cryptography, Network Design, Audio and Video Signals, Digital Communication, Data Bases, Localization Navigation and Smart Mobility.
 
@@ -91,7 +91,7 @@ NETWORKING
 DIGITAL BASICS
 * Linux: installation and configuration, Basics of the Command Line Interface (CLI), virtual machines
 * Linux servers (centos, ubuntu): raid software (mdadm), data share (samba)
-* Familiar with Microsoft Windows, Browsers, Social media, Office Suites ((Microsoft and Libre Office)
+* Familiar with Microsoft Windows, Browsers, Social media, Office Suites (Microsoft and Libre Office)
 * Video surveillance and Monitoring Applications
 
 ---
@@ -115,3 +115,17 @@ Certifications and Technical trainings
 * 2017 - MikroTik - MikroTik Certified Routing Engineer (MTCRE)
 * 2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
+
+---
+
+Language skills
+------
+
+* Mother tongue: 
+    * Italian
+* Other language:
+    * English - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+        * Listening: B2 - Independent user
+        * Reading: C1 - Proficient user
+        * Spoken: B2 - Independent user
+        * Writing: B2 - Independent user
