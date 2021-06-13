@@ -134,4 +134,4 @@ Certifications and Technical trainings
 * 2017 - MikroTik - MikroTik Certified Routing Engineer (MTCRE)
 * 2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
-* 2012 - TELECOM ITALIA SPA (formazione interna) - Percorso di alta formazione specialistica su Reti Fisse e Mobili (IPV4, IPV6, architettura rete fissa e mobile, NGAN, LTE, IPTBV, Cloud, Economics, Market, Routing)
+* 2012 - TELECOM ITALIA SPA (formazione interna) - Advanced training course on Fixed and Mobile Networks (IPV4, IPV6, Fixed and Mobile Networks architecture, NGAN, LTE, IPTV, Cloud, Economics, Market, Routing)
