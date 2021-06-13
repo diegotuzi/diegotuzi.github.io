@@ -80,10 +80,9 @@ NETWORKING
 
 RADIO FREQUENCY (RF) FIELD
 * Human Exposure to RF field measurements (Broadband, Frequency Selective)
-* Emlab Software (design of antenna systems, calculation of radioelectric coverage)
+* Design of antenna systems, calculation of radioelectric coverage
 * Familiar with Standards CEI 211-7, CEI 211-10, IEC 62232
 * Familiar with ICNIRP Guidelines 2020, 1998
-* Antenna Design
 
 RADIO FREQUENCY (RF) TECHNOLOGIES
 * 5G New Radio, DSS, 4G LTE
@@ -95,7 +94,7 @@ RADIO FREQUENCY (RF) TECHNOLOGIES
 DIGITAL BASICS
 * Windows OS, Linux OS Desktop (ubuntu, mint), Linux OS Server (centos, ubuntu)
 * Browsers, Social media, Microsoft Office, Libre Office, Zotero, Gimp, Blackmagic Davinci Resolve
-* Pspice, Matlab, Matlab GUI, Simulink, GNU Radio, Altair Feko, R&S ROMES 4, Cisco Packet Tracer
+* Pspice, Matlab, Matlab GUI, Simulink, GNU Radio, Altair Feko, R&S ROMES 4, Cisco Packet Tracer, Emlab Aldena
 * C++, Java, Python, PHP, CSS, HTML, Markdown, Liquid, VBA, SQL, Eclipse, Visual Studio, Visual Studio Code, PyCharm
 
 LAB INSTRUMENTS
