@@ -4,5 +4,10 @@
   link: /blog.html
 - name: Resume
   link: /resume.html
+  sublinks:
+    - name: English
+      link: /resume.html
+    - name: Italiano
+      link: /resume_ita.html
 - name: Changelog
   link: /changelog.html

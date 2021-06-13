@@ -5,7 +5,22 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             {% for item in site.data.navigation %}
-            <li class="nav-item"><a href="{{ item.link }}" {% if page.url == item.link %} class="nav-link active" {% else %} class="nav-link" {% endif %}>{{ item.name }}</a>
+              {% if item.sublinks %}
+                <li class="nav-item dropdown">
+                  <a class="dropdown-toggle nav-link" id="navbarDropdown" role="button" data-toggle="dropdown" href="#" {% if page.url == item.link %} class="active" {% endif %}>{{ item.name }}</a>
+                  <div class="dropdown-menu">
+                    {% for sublink in item.sublinks %}
+                      {% if sublink.name == 'separator' %}
+                        <div class="dropdown-divider"></div>
+                      {% else %}
+                        <a class="dropdown-item" href="{{ sublink.link }}">{{ sublink.name }}</a>
+                      {% endif %}
+                    {% endfor %}
+                  </div>
+                </li>
+              {% else %}
+                <li class="nav-item"><a href="{{ item.link }}" {% if page.url == item.link %} class="nav-link active" {% else %} class="nav-link" {% endif %}>{{ item.name }}</a>
+              {% endif %}
             {% endfor %}
           </ul>
       </div>
