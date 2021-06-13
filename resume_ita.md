@@ -9,6 +9,7 @@ Diego Tuzi
 03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
 --- 
+
 *Sono un ingegnere con una grande passione per le reti di telecomunicazioni. Studio e lavoro in questo campo da più di 10 anni. Cerco un lavoro che mi permetta di essere in contatto con le tecnologie che realizzeranno le reti di telecomunicazioni future.*
 
 ---
@@ -16,7 +17,7 @@ Diego Tuzi
 Esperienza professionale
 ----------
 
-Feb 2014 - Oggi<br>
+Febbraio 2014 - Oggi<br>
 **RESPONSABILE AREA TECNICO AMMINISTRATIVA (FULL-TIME)**<br>
 TATEL S.R.L. Sora (FR) Italia
 
@@ -28,7 +29,7 @@ TATEL S.R.L. Sora (FR) Italia
 * Progettazione reti di video sorveglianza per Comuni.
 * Realizzazione di server dati con software opensource (samba,  mdadm, centos 7).
 
-Gen 2007 - Feb 2014<br>
+Gennaio 2007 - Febbraio 2014<br>
 **TECNICO AUDIO/VIDEO (PART-TIME)**<br>
 VOCE DEL LAZIO RADIOTELEVISIONE S.R.L. Sora (FR) Italia
 
@@ -37,7 +38,7 @@ VOCE DEL LAZIO RADIOTELEVISIONE S.R.L. Sora (FR) Italia
 * Gestione file audio/video acquisizione, editing, export ed archivio.
 * Realizzazione script dedicati con FFMEG per elaborazione file multimediali.
 
-Gen 2012 - Dic 2013<br>
+Gennaio 2012 - Dicembre 2013<br>
 **MOBILE NETWORK DEVELOPER (PART-TIME)**<br>
 TELECOM ITALIA S.P.A. Milano (MI) Italia
 
@@ -50,7 +51,7 @@ TELECOM ITALIA S.P.A. Milano (MI) Italia
 Istruzione e formazione
 ----------
 
-Set 2017 - 29 Apr 2021<br>
+Settembre 2017 - 29 Aprile 2021<br>
 **LAUREA MAGISTRALE IN TELECOMMUNICATIONS ENGINEERING**<br>
 UNIVERSITÀ DEGLI STUDI DI CASSINO E DEL LAZIO MERIDIONALE Cassino (FR) Italy
 
@@ -133,4 +134,4 @@ Certificazioni e Training tecnico
 * 2017 - MikroTik - MikroTik Certified Routing Engineer (MTCRE)
 * 2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
-* 2012 - TELECOM ITALIA SPA (formazione interna) - Percorso di alta formazione specialistica su Reti Fisse e Mobili (IPV4, IPV6, architettura rete fissa e mobile, NGAN, LTE, IPTBV, Cloud, Economics, Market, Routing)
+* 2012 - TELECOM ITALIA SPA (formazione interna) - Percorso di alta formazione specialistica su Reti Fisse e Mobili (IPV4, IPV6, architettura rete fissa e mobile, NGAN, LTE, IPTV, Cloud, Economics, Market, Routing)
