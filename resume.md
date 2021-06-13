@@ -96,7 +96,7 @@ DIGITAL BASICS
 
 ---
 
-Certifications
+Certifications and Technical trainings
 ------
 
 * 2020 - Keysight Technologies - Understanding 5G New Radio (NR) Standards - A Primer
