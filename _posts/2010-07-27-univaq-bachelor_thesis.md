@@ -2,7 +2,7 @@
 layout: post
 title: "HSPA data transmission Embedded systems: Study and Development"
 author: dt
-tag: "Thesis work"
+tag: "Thesis works"
 ---
 #### Bachelor of Science in Telecommunication Engineering
 ##### University of L'Aquila - Academic Year 2009/2010
