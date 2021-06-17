@@ -2,7 +2,7 @@
 layout: post
 title: "Wi-Fi 6 - Wait and See or Act Today"
 author: dt
-tag: "Webinar"
+tag: "Webinars"
 ---
 #### Keysight Technologies Digital Event
 
