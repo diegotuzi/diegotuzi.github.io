@@ -27,7 +27,6 @@ twitter_username: DiegoTuzi
 github_username:  diegotuzi
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
