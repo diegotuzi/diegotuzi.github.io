@@ -5,7 +5,7 @@ layout: default
 
 <p>
   Written on {{ page.date | date: '%B %d, %Y' }} -   
-  Updated on {{ page.last-modified-date | date: '%B %d, %Y' }} 
+  Updated on {{ page.last_modified_at | date: '%B %d, %Y' }} 
   {% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
     - <a href="{{ author.url }}">{{ author.name }}</a>

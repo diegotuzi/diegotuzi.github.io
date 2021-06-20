@@ -31,6 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -75,3 +76,7 @@ defaults:
 collections:
   authors:
     output: true
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%B %d, %Y'
