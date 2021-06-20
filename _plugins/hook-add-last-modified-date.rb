@@ -1,4 +1,4 @@
-Jekyll::Hooks.register :posts, :pre_render do |post|
+Jekyll::Hooks.register :posts, :post_init do |post|
 
     # get the current post last modified time
     modification_time = File.mtime( post.path )
