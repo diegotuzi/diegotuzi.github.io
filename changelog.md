@@ -10,7 +10,6 @@ As a developer I really like tracking my activities. This section is a changelog
 
 ## 1.0 2021-06-20
 ### First useful version of website
-* Added the jekyll-last-modified-at plugin [[10]](https://github.com/gjtorikian/jekyll-last-modified-at), using Jekyll plugin  [[11]](https://jekyllrb.com/docs/plugins/hooks/) with Ruby language
 * Google Analytics setup for Jekyll [[9]](https://michaelsoolee.com/google-analytics-jekyll/)
 * Fixed a problem in resume dropdown menu using Liquid Filter "remove" and Operator "contains" [[8]](https://shopify.github.io/liquid/)
 
