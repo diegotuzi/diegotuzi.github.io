@@ -4,10 +4,7 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <p>
-  {% if page.date %}
-  <span>Originally Published: {{ page.date | date: "%Y-%m-%d" }}</span><br/>
-  <span id='last-modified'/>
-  {% endif %}
+  Written on {{ page.date | date: '%B %d, %Y' }}
   {% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
     - <a href="{{ author.url }}">{{ author.name }}</a>

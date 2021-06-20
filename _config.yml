@@ -30,7 +30,6 @@ github_username:  diegotuzi
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-github-metadata
 
 # Exclude from processing.
 # The following items will not be processed, by default.
