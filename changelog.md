@@ -10,6 +10,8 @@ As a developer I really like tracking my activities. This section is a changelog
 
 ## 1.0 2021-06-20
 ### First useful version of website
+* Added a Last-updated time stamp inside posts [[10]](https://stackoverflow.com/questions/36758072/how-to-insert-the-last-updated-time-stamp-in-jekyll-page-at-build-time), using Jekyll plugin Hooks [[11]](https://jekyllrb.com/docs/plugins/hooks/) with Ruby language
+* Google Analytics setup for Jekyll [[9]](https://michaelsoolee.com/google-analytics-jekyll/)
 * Fixed a problem in resume dropdown menu using Liquid Filter "remove" and Operator "contains" [[8]](https://shopify.github.io/liquid/)
 
 ## 0.6 2021-06-12
