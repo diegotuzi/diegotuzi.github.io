@@ -15,7 +15,7 @@ This Website is just a way to practice Web languages and English language.
 
 Inside this website you can find:
 * [Blog section](blog.html): It contains several interesting posts about my academic and personal activities;
-* [Resume section](resume.html): It contains an updated version of my Resume;
+* Resume section: It contains an updated version of my Resume in [English](resume.html) and in [Italian](resume_ita.html);
 * [Changelog section](changelog.html): It is a log section where I can track the website development updates.
 
 Feel free to send any feedback about this Website.
