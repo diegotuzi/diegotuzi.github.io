@@ -6,8 +6,9 @@
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             {% for item in site.data.navigation %}
               {% if item.sublinks %}
-                <li class="nav-item dropdown">
-                  <a class="dropdown-toggle nav-link" id="navbarDropdown" role="button" data-toggle="dropdown" href="#" {% if page.url == item.link %} class="active" {% endif %}>{{ item.name }}</a>
+              {% assign first = {item.link} | remove: ".html" %}
+                <li {% if page.url contains first %} class="nav-item dropdown active" {% else %} class="nav-item dropdown" {% endif %}>
+                  <a class="dropdown-toggle nav-link" id="navbarDropdown" role="button" data-toggle="dropdown" href="#">{{ item.name }}</a>
                   <div class="dropdown-menu">
                     {% for sublink in item.sublinks %}
                       {% if sublink.name == 'separator' %}

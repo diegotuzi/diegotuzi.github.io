@@ -8,6 +8,10 @@ As a developer I really like tracking my activities. This section is a changelog
 
 ---
 
+## 1.0 2021-06-20
+### First useful version of website
+* Fixed a problem in resume dropdown menu using Liquid Filter "remove" and Operator "contains" [[8]](https://shopify.github.io/liquid/)
+
 ## 0.6 2021-06-12
 ### Favicon
 * Custom favicon [[7]](https://favicon.io/favicon-generator/)
