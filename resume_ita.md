@@ -118,6 +118,7 @@ Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.or
 Certificazioni e Training tecnico
 ------
 
+* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysisy](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
 * [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
 * 2020 - Keysight Technologies - Understanding 5G New Radio (NR) Standards - A Primer
 * 2020 - Keysight Technologies - Understanding 5G Dynamic Spectrum Sharing (DSS)
