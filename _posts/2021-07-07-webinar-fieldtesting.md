@@ -9,7 +9,8 @@ tag: "Webinars"
 I attended the Webinar "Field Testing at Millimeter-Wave with Wideband Analysis". Adesh Jain held the webinar. Keshav Sudial is an Application Engineer inside RF&Microwave department at Keysight Technologies.
 Thanks to this webinar I had on overview of Field Testing at Millimeter-Wave Wideband Analysis. Keysight developed a Fieldfox analyser able to detect signal up to 54 GHz and with 120 MHz bandwidth. It can be used in radar, satellite and 5GNR field testing applications.
 
-<img src="/assets/img/2021-06-10-webinar-keysight-wifi6.jpg" class="img-fluid" alt="webinar-keysight-wifi6">
+<!-- your comment
+<img src="/assets/img/2021-07-07-webinar-keysight-fieldtesting.jpg" class="img-fluid" alt="webinar-keysight-wifi6">  -->
 
 For further information about Keysight webinars visit the [Keysight Engineering Education Webinar Series](https://www.keysight.com/it/en/events/europe-middleeast-africa-india/webinars.html?partnerref=ON24referral) web page.
 
