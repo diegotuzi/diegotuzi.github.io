@@ -65,7 +65,7 @@ Settembre 2006 - Luglio 2010<br>
 UNIVERSITÀ DEGLI STUDI DELL’AQUILA L'Aquila (AQ) Italy
 
 * Voto di laurea 110/110.
-* Tesi: Studio e Sviluppo di un sistema embedded per la trasmissione dati con Tecnologia HSPA.
+* Tesi: [Studio e Sviluppo di un sistema embedded per la trasmissione dati con Tecnologia HSPA.](2010-07-27-univaq-bachelor_thesis.md)
 * Corsi rilevanti: Reti di Telecomunicazioni, Comunicazioni Elettroniche, Sistemi Operativi, Programmazione orientata agli oggetti.
 
 ---
@@ -118,21 +118,21 @@ Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.or
 Certificazioni e Training tecnico
 ------
 
-* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysisy](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
+* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysis](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
 * [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
-* 2020 - Keysight Technologies - Understanding 5G New Radio (NR) Standards - A Primer
-* 2020 - Keysight Technologies - Understanding 5G Dynamic Spectrum Sharing (DSS)
-* 2020 - Keysight Technologies - O-RAN: The 5G Path Forward
-* 2020 - Keysight Technologies - 3GPP 5G - Release 16 & 17
-* 2020 - Cisco Networking Academy - Introduction to Cybersecurity
-* 2020 - Cisco Networking Academy - Introduction to Packet Tracer
+* [2020 - Keysight Technologies - Understanding 5G New Radio (NR) Standards - A Primer](https://verify.skilljar.com/c/z6uts65inx8j)
+* [2020 - Keysight Technologies - Understanding 5G Dynamic Spectrum Sharing (DSS)](https://verify.skilljar.com/c/oxp4gnm3qtd3)
+* [2020 - Keysight Technologies - O-RAN: The 5G Path Forward](https://verify.skilljar.com/c/btao4mdhktv7)
+* [2020 - Keysight Technologies - 3GPP 5G - Release 16 & 17](https://verify.skilljar.com/c/7df6ye99c9ht)
+* [2020 - Cisco Networking Academy - Introduction to Cybersecurity](/assets/pdf/2020-11-09-certificate-cisco-Introduction_to_certificate.pdf)
+* [2020 - Cisco Networking Academy - Introduction to Packet Tracer](/assets/pdf/2020-11-03-certificate-cisco-introdution_to_packet_tracer.pdf)
 * 2020 - CEI (Comitato Elettrotecnico Italiano) - Misura e valutazione dei campi elettromagnetici per la caratterizzazione dell'esposizione umana
-* 2020 - CEI (Comitato Elettrotecnico Italiano) - Verifiche degli impianti elettrici
-* 2020 - DJI Educational - Corso Drone DJI Mavic 2 Pro e Zoom
-* 2019 - Telecomunicazioni ALDENA S.r.l. - EMLAB Training
-* 2019 - Cisco Networking Academy - Get Connected
-* 2019 - Network Development Group - NDG Linux Unhatched
-* 2017 - MikroTik - MikroTik Certified Routing Engineer (MTCRE)
-* 2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)
+* [2020 - CEI (Comitato Elettrotecnico Italiano) - Verifiche degli impianti elettrici](/assets/pdf/2020-05-22-certificate-cei-impianti_elettrici.pdf)
+* [2020 - DJI Educational - Corso Drone DJI Mavic 2 Pro e Zoom](/assets/pdf/2020-04-01-certificate-DJI-drone.pdf)
+* [2019 - Telecomunicazioni ALDENA S.r.l. - EMLAB Training](/assets/pdf/2019-08-10-certificate-aldena-emlab.pdf)
+* [2019 - Cisco Networking Academy - Get Connected](/assets/pdf/2019-04-18-certificate-cisco-Introduction_to_certificate.pdf)
+* [2019 - Network Development Group - NDG Linux Unhatched](/assets/pdf/2019-04-18-certificate-NDG_Linux_Unhatched.pdf)
+* [2017 - MikroTik - MikroTik Certified Routing Engineer (MTCRE)](/assets/pdf/2017-12-12-mikrotik-MTCRE.pdf)
+* [2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)](/assets/pdf/2017-12-06-mikrotik-MTCNA.pdf)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
 * 2012 - TELECOM ITALIA SPA (formazione interna) - Percorso di alta formazione specialistica su Reti Fisse e Mobili (IPV4, IPV6, architettura rete fissa e mobile, NGAN, LTE, IPTV, Cloud, Economics, Market, Routing)
