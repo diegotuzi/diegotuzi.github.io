@@ -127,7 +127,7 @@ Certifications and Technical training
 * [2020 - Keysight Technologies - 3GPP 5G - Release 16 & 17](https://verify.skilljar.com/c/7df6ye99c9ht)
 * [2020 - Cisco Networking Academy - Introduction to Cybersecurity](/assets/pdf/2020-11-09-certificate-cisco-Introduction_to_certificate.pdf)
 * [2020 - Cisco Networking Academy - Introduction to Packet Tracer](/assets/pdf/2020-11-03-certificate-cisco-introdution_to_packet_tracer.pdf)
-* 2020 - CEI (Comitato Elettrotecnico Italiano) - Misura e valutazione dei campi elettromagnetici per la caratterizzazione dell'esposizione umana
+* [2020 - CEI (Comitato Elettrotecnico Italiano) - Misura e valutazione dei campi elettromagnetici per la caratterizzazione dell'esposizione umana](/assets/pdf/2020-09-29-certificate-cei-emf.pdf)
 * [2020 - CEI (Comitato Elettrotecnico Italiano) - Verifiche degli impianti elettrici](/assets/pdf/2020-05-22-certificate-cei-impianti_elettrici.pdf)
 * [2020 - DJI Educational - Corso Drone DJI Mavic 2 Pro e Zoom](/assets/pdf/2020-04-01-certificate-DJI-drone.pdf)
 * [2019 - Telecomunicazioni ALDENA S.r.l. - EMLAB Training](/assets/pdf/2019-08-10-certificate-aldena-emlab.pdf)
