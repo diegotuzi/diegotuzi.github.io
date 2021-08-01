@@ -118,8 +118,6 @@ Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.or
 Certificazioni e Training tecnico
 ------
 
-* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysis](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
-* [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
 * [2020 - Keysight Technologies - Understanding 5G New Radio (NR) Standards - A Primer](https://verify.skilljar.com/c/z6uts65inx8j)
 * [2020 - Keysight Technologies - Understanding 5G Dynamic Spectrum Sharing (DSS)](https://verify.skilljar.com/c/oxp4gnm3qtd3)
 * [2020 - Keysight Technologies - O-RAN: The 5G Path Forward](https://verify.skilljar.com/c/btao4mdhktv7)
@@ -136,3 +134,9 @@ Certificazioni e Training tecnico
 * [2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)](/assets/pdf/2017-12-06-mikrotik-MTCNA.pdf)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
 * 2012 - TELECOM ITALIA SPA (formazione interna) - Percorso di alta formazione specialistica su Reti Fisse e Mobili (IPV4, IPV6, architettura rete fissa e mobile, NGAN, LTE, IPTV, Cloud, Economics, Market, Routing)
+
+Webinars
+------
+* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysis](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
+* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysis](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
+* [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
