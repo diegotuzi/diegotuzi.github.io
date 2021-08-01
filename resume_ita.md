@@ -137,6 +137,9 @@ Certificazioni e Training tecnico
 
 Webinars
 ------
-* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysis](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
+
+* [2021 - Keysight Technologies - Is your network security prepared for post-pandemic world?](https://diegotuzi.github.io/2021/07/29/webinar-testingforpostpandemicnetwork.html)
+* [2021 - Keysight Technologies - Network simulation for public safety MANET Radios](https://diegotuzi.github.io/2021/07/22/webinar-netsim-pubsafe-manet.html)
+* [2021 - Keysight Technologies - Master Ultrahigh Bandwidth Signal Analysis with Time-domain Instrument in Aerospace and Defence](https://diegotuzi.github.io/2021/07/14/webinar-ultrahigh_bw_analysis.html)
 * [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysis](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
 * [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
