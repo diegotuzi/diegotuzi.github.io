@@ -14,8 +14,8 @@ Thanks to this webinar I had on overview about the Challenges in Distributed Net
 For further information about Keysight webinars visit the [Keysight Engineering Education Webinar Series](https://www.keysight.com/it/en/events/europe-middleeast-africa-india/webinars.html?partnerref=ON24referral) web page.
 
 Acquired and consolidated skills:
-* Statistical channel modeling, Stochastic channel modeling, Geometry based stochastic modeling
-* MANET network testing
+* Challenges in Distributed Networks
+* Security and Performance test methodologies in Distributed Networks
 
 Resources:
 * [Certificate of Attendance](/assets/pdf/2021-07-29-webinar-testingforpostpandemicnetwork.pdf)
