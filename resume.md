@@ -75,7 +75,7 @@ Organization
 ------------
 
 August 2021 - Present<br>
-**Licensed professional engineer**<br>
+**LICENSED PROFESSIONAL ENGINEER**<br>
 [Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/), Frosinone (FR) Italy
 Membership number: 2789 - Section: A - Sector: Information Engineering
 
