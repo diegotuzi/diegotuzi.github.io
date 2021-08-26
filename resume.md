@@ -79,6 +79,8 @@ August 2021 - Present<br>
 [Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/), Frosinone (FR) Italy<br>
 Membership number: 2789 - Section: A - Sector: Information Engineering
 
+---
+
 Skills
 ------
 

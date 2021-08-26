@@ -77,6 +77,7 @@ Agosto 2021 - Oggi<br>
 **ABILITAZIONE ALLA PROFESSIONE DI INGEGNERE**<br>
 [Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/), Frosinone (FR) Italy<br>
 Numero di iscrizione: 2789 - Sezione: A - Settore: Ingegneria dell'Informazione
+
 ---
 
 Competenze
