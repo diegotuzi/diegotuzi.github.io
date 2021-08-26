@@ -71,6 +71,14 @@ UNIVERSITÀ DEGLI STUDI DELL’AQUILA L'Aquila (AQ) Italy
 
 ---
 
+Organization
+------------
+
+August 2021 - Present<br>
+**Licensed professional engineer**<br>
+[Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/), Frosinone (FR) Italy
+Membership number: 2789 - Section: A - Sector: Information Engineering
+
 Skills
 ------
 

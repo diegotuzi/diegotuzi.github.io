@@ -70,6 +70,15 @@ UNIVERSITÀ DEGLI STUDI DELL’AQUILA L'Aquila (AQ) Italy
 
 ---
 
+Organizzazioni
+--------------
+
+Agosto 2021 - Oggi<br>
+**Abilitazione alla professione di Ingegnere**<br>
+[Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/), Frosinone (FR) Italy
+Numero di iscrizione: 2789 - Sezione: A - Settore: Ingegneria dell'Informazione
+---
+
 Competenze
 ------
 
