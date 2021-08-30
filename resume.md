@@ -28,7 +28,6 @@ TATEL S.R.L. Sora (FR) Italy
 * Regional SFN DVB-T (terrestrial broadcast TV service) network design for Lazio and Abruzzo (more than 80 sites involved).
 * Hyperlan 5GHz wireless networks design for monitoring purposes (L2 and also L3 network with OSPF routing protocol) with low cost devices.
 * Video surveillance networks design for municipalities.
-* Creation of linux data servers with open source software (samba, mdadm, centos 7).
 
 January 2007 - February 2014<br>
 **AUDIO/VIDEO TECHNICIAN (PART-TIME)**<br>
@@ -38,6 +37,7 @@ VOCE DEL LAZIO RADIOTELEVISIONE S.R.L. Sora (FR) Italy
 * Installation, configuration and management of Television automation software (Mediaout from Mainlevel).
 * Audio and Video ingest, edit, export and archive.
 * Several custom FFMPEG scripts to adapt multimedia files for radio and tv broadcast transmission.
+* Creation of linux data servers with open source software (samba, mdadm, centos 7).
 
 January 2012 - December 2013<br>
 **MOBILE NETWORK DEVELOPER (PART-TIME)**<br>
@@ -118,11 +118,9 @@ Language skills
 
 Italian (Mother tongue)
 
-English - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
-* Listening: B2 - Independent user
-* Reading: C1 - Proficient user
-* Spoken: B2 - Independent user
-* Writing: B2 - Independent user
+MAy 7, 2021 English - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+* Listening: C1 Advanced
+* Reading: C2 Proficient
 
 ---
 

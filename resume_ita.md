@@ -27,7 +27,6 @@ TATEL S.R.L. Sora (FR) Italia
 * Pianificazione reti SFN DVB-T/T2 per Lazio ed Abruzzo (più di 80 siti coinvolti).
 * Pianificazione di rete di monitoraggio in Hyperlan 5GHz (rete L2 ed L3 con protocollo di routing OSPF) realizzata con dispositivi Mikrotik.
 * Progettazione reti di video sorveglianza per Comuni.
-* Realizzazione di server dati con software opensource (samba,  mdadm, centos 7).
 
 Gennaio 2007 - Febbraio 2014<br>
 **TECNICO AUDIO/VIDEO (PART-TIME)**<br>
@@ -37,6 +36,7 @@ VOCE DEL LAZIO RADIOTELEVISIONE S.R.L. Sora (FR) Italia
 * Installazione e configurazione di sistemi di automazione televisiva (Mediaout  Mainlevel).
 * Gestione file audio/video acquisizione, editing, export ed archivio.
 * Realizzazione script dedicati con FFMEG per elaborazione file multimediali.
+* Realizzazione di server dati con software opensource (samba,  mdadm, centos 7).
 
 Gennaio 2012 - Dicembre 2013<br>
 **MOBILE NETWORK DEVELOPER (PART-TIME)**<br>
@@ -117,11 +117,9 @@ Competenze linguistiche
 
 Italiano (madrelingua)
 
-Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
-* Ascolto: B2 - Independent user
-* Lettura: C1 - Proficient user
-* Interazione orale: B2 - Independent user
-* Scrittura: B2 - Independent user
+7 Maggio 2021 Inglese - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+* Ascolto: C1 Advanced
+* Lettura: C2 Proficient
 
 ---
 
