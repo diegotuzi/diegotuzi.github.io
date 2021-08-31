@@ -118,9 +118,11 @@ Language skills
 
 Italian (Mother tongue)
 
-MAy 7, 2021 English - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
+May 7, 2021 English - [EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/aA34sY)
 * Listening: C1 Advanced
 * Reading: C2 Proficient
+
+August 22, 2021 English - TOEFL (results available on September 2021)
 
 ---
 

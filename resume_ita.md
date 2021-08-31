@@ -121,6 +121,8 @@ Italiano (madrelingua)
 * Ascolto: C1 Advanced
 * Lettura: C2 Proficient
 
+22 Agosto 2021 Inglese - TOEFL (risultati disponibili a Settembre 2021)
+
 ---
 
 Certificazioni e Training tecnico
