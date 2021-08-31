@@ -6,7 +6,7 @@ title: Resume
 Diego Tuzi
 ==========
 
-### <em>Ingegnere delle Telecomunicazioni<em>
+<em>Ingegnere delle Telecomunicazioni<em>
 
 03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
