@@ -78,7 +78,7 @@ Organization
 
 August 2021 - Present<br>
 **LICENSED PROFESSIONAL ENGINEER**<br>
-[Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/), Frosinone (FR) Italy<br>
+[Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/elenco-iscritti/?iscritto=2789), Frosinone (FR) Italy<br>
 Membership number: 2789 - Section: A - Sector: Information Engineering
 
 ---
@@ -124,7 +124,8 @@ May 7, 2021 English - [EF SET English Certificate 70/100 (C1 Advanced)](https://
 * Listening: C1 Advanced
 * Reading: C2 Proficient
 
-August 22, 2021 English - TOEFL (results available on September 2021)
+August 22, 2021 English - [TOEFL](/assets/pdf/2021-08-22-certificate-teofl-english.pdf)
+* Score: 88/120
 
 ---
 

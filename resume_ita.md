@@ -6,7 +6,7 @@ title: Resume
 Diego Tuzi
 ==========
 
-<em>Ingegnere delle Telecomunicazioni<em>
+*Ingegnere delle Telecomunicazioni*
 
 03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
@@ -77,7 +77,7 @@ Organizzazioni
 
 Agosto 2021 - Oggi<br>
 **ABILITAZIONE ALLA PROFESSIONE DI INGEGNERE**<br>
-[Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/), Frosinone (FR) Italy<br>
+[Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/elenco-iscritti/?iscritto=2789), Frosinone (FR) Italy<br>
 Numero di iscrizione: 2789 - Sezione: A - Settore: Ingegneria dell'Informazione
 
 ---
@@ -123,7 +123,8 @@ Italiano (madrelingua)
 * Ascolto: C1 Advanced
 * Lettura: C2 Proficient
 
-22 Agosto 2021 Inglese - TOEFL (risultati disponibili a Settembre 2021)
+22 Agosto 2021 Inglese - [TOEFL](/assets/pdf/2021-08-22-certificate-teofl-english.pdf)
+* Risultato: 88/120
 
 ---
 
