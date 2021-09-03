@@ -12,7 +12,7 @@ Diego Tuzi
 
 --- 
 
-*Sono un ingegnere con una grande passione per le reti di telecomunicazioni. Studio e lavoro in questo campo da più di 10 anni. Cerco un lavoro che mi permetta di essere in contatto con le tecnologie che realizzeranno le reti di telecomunicazioni future.*
+*Sono un ingegnere con una grande passione per le reti di telecomunicazioni. Studio e lavoro in questo campo da più di 10 anni. Credo fermamente che, nel recente futuro, le reti di telecomunicazione avranno un ruolo di fondamentale importanza nella nostra società. La diffusione su scala mondiale delle nuove tecnologie di comunicazione mobile forniranno l’infrastruttura necessaria per lo sviluppo di nuovi servizi. Tali servizi introdurranno delle sfide su più fronti nelle reti sottostanti. Il mio desiderio è di prendere parte nella ricerca, sviluppo ed implementazione delle reti di telecomunicazioni future.*
 
 ---
 
