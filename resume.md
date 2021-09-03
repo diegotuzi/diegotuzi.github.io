@@ -118,13 +118,11 @@ LAB INSTRUMENTS
 Language skills
 ------
 
-Italian (Mother tongue)
+Italian: (Mother tongue)
 
-May 7, 2021 English - [EF SET English Certificate](https://www.efset.org/cert/aA34sY)
-* Score: 70/100
-
-August 22, 2021 English - [TOEFL](/assets/pdf/2021-08-22-certificate-teofl-english.pdf)
-* Score: 88/120
+English:
+* May 7, 2021 - [EF SET English Certificate](https://www.efset.org/cert/aA34sY) - Score: 70/100
+* August 22, 2021 - [TOEFL](/assets/pdf/2021-08-22-certificate-teofl-english.pdf) - Score: 88/120
 
 ---
 

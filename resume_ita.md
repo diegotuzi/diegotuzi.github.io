@@ -117,13 +117,11 @@ LAB INSTRUMENTS
 Competenze linguistiche
 ------
 
-Italiano (madrelingua)
+Italiano: (madrelingua)
 
-7 Maggio 2021 Inglese - [EF SET English Certificate](https://www.efset.org/cert/aA34sY)
-* Risultato: 70/100
-
-22 Agosto 2021 Inglese - [TOEFL](/assets/pdf/2021-08-22-certificate-teofl-english.pdf)
-* Risultato: 88/120
+Inglese:
+* 7 Maggio 2021 - [EF SET English Certificate](https://www.efset.org/cert/aA34sY) - Risultato: 70/100
+* 22 Agosto 2021 - [TOEFL](/assets/pdf/2021-08-22-certificate-teofl-english.pdf) - Risultato: 88/120
 
 ---
 
