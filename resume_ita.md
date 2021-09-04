@@ -6,7 +6,7 @@ title: Resume
 Diego Tuzi
 ==========
 
-*Ingegnere delle Telecomunicazioni*
+*Ingegnere delle Telecomunicazioni - (Laurea Triennale, Magistrale ed abilitazione alla professione di Ingegnere)*
 
 03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 

@@ -7,7 +7,7 @@ permalink: resume.html
 Diego Tuzi
 ==========
 
-*Telecommunication Engineer*
+*Telecommunication Engineer - (BSc, MSc, Italian licensed professional Engineer)*
 
 03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
