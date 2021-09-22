@@ -144,12 +144,3 @@ Certificazioni e Training tecnico
 * [2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)](/assets/pdf/2017-12-06-mikrotik-MTCNA.pdf)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
 * 2012 - TELECOM ITALIA SPA (formazione interna) - Percorso di alta formazione specialistica su Reti Fisse e Mobili (IPV4, IPV6, architettura rete fissa e mobile, NGAN, LTE, IPTV, Cloud, Economics, Market, Routing)
-
-Webinars
-------
-
-* [2021 - Keysight Technologies - Is your network security prepared for post-pandemic world?](https://diegotuzi.github.io/2021/07/29/webinar-testingforpostpandemicnetwork.html)
-* [2021 - Keysight Technologies - Network simulation for public safety MANET Radios](https://diegotuzi.github.io/2021/07/22/webinar-netsim-pubsafe-manet.html)
-* [2021 - Keysight Technologies - Master Ultrahigh Bandwidth Signal Analysis with Time-domain Instrument in Aerospace and Defence](https://diegotuzi.github.io/2021/07/14/webinar-ultrahigh_bw_analysis.html)
-* [2021 - Keysight Technologies - Field Testing at Millimeter-Wave with Wideband Analysis](https://diegotuzi.github.io/2021/07/07/webinar-fieldtesting.html)
-* [2021 - Keysight Technologies - Wi-Fi 6 - Wait and See or Act Today](https://diegotuzi.github.io/2021/06/10/webinar-wifi6.html)
