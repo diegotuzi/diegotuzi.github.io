@@ -145,3 +145,7 @@ Certifications and Technical training
 * [2017 - MikroTik - MikroTik Certified Network Associate (MTCNA)](/assets/pdf/2017-12-06-mikrotik-MTCNA.pdf)
 * 2017 - MPB SRL - Corso intensivo su teoria e misura di campi magnetici, elettrici ed elettromagnetici nella banda da 0 Hz a 300 GHz
 * 2012 - TELECOM ITALIA SPA (internal training) - Advanced training course on Fixed and Mobile Networks (IPV4, IPV6, Fixed and Mobile Networks architecture, NGAN, LTE, IPTV, Cloud, Economics, Market, Routing)
+
+Personal data
+------
+I hereby authorize the use of my personal data in accordance to the GDPR 679/16 (“European regulation on the protection of personal data") and the Personal Data Protection Code, Legislative Decre 30 June 2003 no. 196 and subsequent amendments.
