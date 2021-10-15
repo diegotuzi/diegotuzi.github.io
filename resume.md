@@ -9,7 +9,7 @@ Diego Tuzi
 
 *Telecommunication Engineer - (BSc, MSc, Italian licensed professional Engineer)*
 
-03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diegotuzi.github.io](https://diegotuzi.github.io/)
+03039 Sora (FR) Italy - [diegotuzi@gmail.com](mailto:diegotuzi@gmail.com) - [diego.tuzi@ingpec.eu](mailto:diego.tuzi@ingpec.eu) - [diegotuzi.github.io](https://diegotuzi.github.io/)
 
 ---
 
