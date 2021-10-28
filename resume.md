@@ -13,7 +13,7 @@ Diego Tuzi
 
 ---
 
-*I am an engineer with a great passion for telecommunication networks. I have been studying and working in this field for more than 10 years. I strongly believe the telecommunication networks will increase their role in our society in the near future. The widespread of new mobile technologies around the world will provide the access infrastructure for several new services. This new services will introduce new challenges in the underlying networks. I would like to take part in the research, design and deployment of the future networks.*
+*I am an engineer with a great passion for telecommunication networks. I have been studying and working in this field for more than 10 years. I strongly believe the telecommunication networks will increase their role in our society in the near future. The widespread of new mobile technologies around the world will provide the access infrastructure for several new services. These new services will introduce new challenges in the underlying networks. I would like to take part in the research, design and deployment of the future networks.*
 
 ---
 
