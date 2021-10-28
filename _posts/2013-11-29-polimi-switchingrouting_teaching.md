@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Simulator of Networks with input buffer
+title: Seminar on "Simulation for networks with input buffer"
 author: dt
 tag: "Teaching activities for academic courses"
 ---
 #### Teaching activity for "Switching and Routing" course
 ##### Politecnico di Milano - Academic Year 2013/2014
 
-As a student and near-graduate of Politecnico di Milano, I prepared a lesson about the C++ network simulator that I developed for the master course "Switching and Routing" held by Prof. Achille Pattavina during the Academic Year 2010/2011. I offered this lesson to the Switching and Routing's students during the Academic Year 2013/2014.
+As a student and near-graduate of Politecnico di Milano, I gave a seminar about the C++ network simulator that I developed for the master course "Switching and Routing" held by Prof. Achille Pattavina during the Academic Year 2010/2011. I gave the seminar to the Switching and Routing's students during the Academic Year 2013/2014.
 It was an interesting experience and I was really happy to explain my work and to answer to the student's questions.
 
 <img src="/assets/img/2013-11-29-polimi-switchingrouting-teaching.jpg" class="img-fluid" alt="2013-11-29-polimi-switchingrouting-teaching">
