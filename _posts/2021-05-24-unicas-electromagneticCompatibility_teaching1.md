@@ -4,7 +4,7 @@ title: Seminar on "4G and 5G control signals, Stability analysis"
 author: dt
 tag: "Teaching activities for academic courses"
 ---
-#### Teaching activity for ""Electromagnetic Compatibility: Modelling and Measurements" course
+#### Teaching activity for "Electromagnetic Compatibility: Modelling and Measurements" course
 ##### University of Cassino and Southern Lazio
 
 At the end of my master degree thesis, I introduced my thesis work to students of the course "Electromagnetic Compatibility: Modelling and Measurements" held by Prof. Domenico Capriglione during the Academic Year 2020/2021. It was an interesting experience and I was really happy to explain my thesis work and to answer to the student's questions.
