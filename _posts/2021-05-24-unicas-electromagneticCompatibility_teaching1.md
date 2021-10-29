@@ -8,7 +8,7 @@ tag: "Teaching activities for academic courses"
 ##### University of Cassino and Southern Lazio
 
 At the end of my master degree thesis, I introduced my thesis work to students of the course "Electromagnetic Compatibility: Modelling and Measurements" held by Prof. Domenico Capriglione during the Academic Year 2020/2021. It was an interesting experience and I was really happy to explain my thesis work and to answer to the student's questions.
-<img src="/assets/img/2021-04-29_unicas_thesis_scenario2.jpg" class="img-fluid" alt="Thesis workflow image">
+<img src="/assets/img/2021-05-24-unicas-electromagneticCompatibility_teaching1.jpg" class="img-fluid" alt="Thesis workflow image">
 
 Acquired and consolidated skills:
 * Human exposure to RF Fields (WHO/ICNIRP Guidelines, IEC measurement standards)

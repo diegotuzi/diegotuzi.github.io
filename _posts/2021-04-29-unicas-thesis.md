@@ -8,7 +8,7 @@ tag: "Thesis works"
 ##### University of Cassino and Southern Lazio - Academic Year 2019/2020
 
 As a student of University of Cassino and Southern Lazio, I ended my educational path with a thesis work entitled "4G and 5G control signals: Stability analysis". I worked on the thesis for 8 months. I started with an extensive research part followed by an experimental part. I, Prof. G. Miele (my Supervisor) and Prof. D. Capriglione, Prof. M.D. Migliore and Prof. G. Cerro (my Co-Supervisors) had several meetings during the work to address the activities.     
-<img src="/assets/img/2021-04-29_unicas_thesis_workflow.jpg" class="img-fluid" alt="Thesis workflow image">
+<img src="/assets/img/2021-04-29_unicas_thesis_scenario2.jpg" class="img-fluid" alt="Thesis workflow image">
 It was an amazing experience. I'm very thankful to the Supervisors for received support and the availability during the thesis work.
 
 Acquired and consolidated skills:
