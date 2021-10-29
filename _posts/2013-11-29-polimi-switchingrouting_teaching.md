@@ -2,7 +2,7 @@
 layout: post
 title: Seminar on "Simulation for networks with input buffer"
 author: dt
-tag: "Teaching activities for academic courses"
+tag: "Seminars for academic courses"
 ---
 #### Teaching activity for "Switching and Routing" course
 ##### Politecnico di Milano - Academic Year 2013/2014
