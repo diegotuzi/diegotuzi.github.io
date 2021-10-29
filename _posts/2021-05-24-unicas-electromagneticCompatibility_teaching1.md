@@ -2,7 +2,7 @@
 layout: post
 title: Seminar on "4G and 5G control signals, Stability analysis" 
 author: dt
-tag: "Teaching activities for academic courses"
+tag: "Seminars for academic courses"
 ---
 #### Teaching activity for "Electromagnetic Compatibility: Modelling and Measurements" course
 ##### University of Cassino and Southern Lazio
