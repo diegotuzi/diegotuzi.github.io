@@ -17,6 +17,7 @@ Acquired and consolidated skills:
 * EMF Previsional Calculation
 * EMLAB
 * Public Speaking
+* Presentation
 
 Resources:
 * [Presentation](/assets/pdf/2021-05-24-unicas-electromagneticCompatibility_teaching-aie.pdf)

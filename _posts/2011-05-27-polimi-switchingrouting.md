@@ -18,6 +18,9 @@ Acquired and consolidated skills:
 * Microsoft Visual Studio IDE
 * C++
 * Microsoft Office Suite
+* Presentation
+* Teamwork
+* Leadership
 
 Resources:
 * [Simulator Presentation](/assets/pdf/2011-05-27-polimi-switchingrouting.pdf)

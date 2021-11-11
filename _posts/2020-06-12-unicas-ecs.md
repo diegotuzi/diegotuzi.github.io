@@ -15,6 +15,7 @@ Acquired and consolidated skills:
 * [Pspice](https://www.pspice.com/)
 * Matlab
 * Labs instruments: Power Supply, RF Signal Generator, Oscilloscope, Network Analyzer, Spectrum Analyzer 
+* Writing reports
 
 Resources:
 * [The matching networks](/assets/pdf/2020-06-12_unicas_ecs_1_the_matching_network.pdf)

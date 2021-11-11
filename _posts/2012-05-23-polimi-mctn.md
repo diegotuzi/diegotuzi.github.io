@@ -16,6 +16,7 @@ Acquired and consolidated skills:
 * Digital modulations (AMPM, PSK, QAM)
 * Trellis-Coded Modulation (TCM)
 * Matlab and Simulink
+* Presentation
 
 Resources:
 * [Project repository](https://github.com/diegotuzi/trellis-coded-modulation.git)

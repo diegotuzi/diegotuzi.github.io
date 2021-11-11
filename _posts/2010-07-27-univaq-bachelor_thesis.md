@@ -21,6 +21,9 @@ Acquired and consolidated skills:
 * pppd daemon
 * Axis Camera 207mw, Axis API
 * C programming language, bash scripting
+* Scientific writing
+* Public speaking
+* Presentation
 
 Resources:
 * [Thesis presentation](/assets/pdf/2010-07-27-univaq-bachelor_thesis-presentation.pdf)

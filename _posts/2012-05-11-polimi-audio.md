@@ -17,6 +17,9 @@ Acquired and consolidated skills:
 * Fractional Delay Filters
 * Matlab GUI
 * Microsoft Office
+* Presentation
+* Teamwork
+* Leadership
 
 Resources:
 * [RIRsim Presentation](/assets/pdf/2012-05-11-polimi-audio_rirsim.pdf)

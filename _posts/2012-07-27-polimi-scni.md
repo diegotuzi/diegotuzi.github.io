@@ -21,6 +21,9 @@ Acquired and consolidated skills:
 * Eclipse IDE
 * Matlab
 * Microsoft Office
+* Presentation
+* Teamwork
+* Leadership
 
 Resources:
 * [Android Bluetooth Ranging Presentation](/assets/pdf/2018-06-03_unicas_imcs_scos_user_manual.pdf)

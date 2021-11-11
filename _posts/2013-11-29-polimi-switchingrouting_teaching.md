@@ -18,6 +18,7 @@ Acquired and consolidated skills:
 * Microsoft Visual Studio IDE
 * C++
 * Microsoft Office Suite
+* Presentation
 * Public speaking
 
 Resources:

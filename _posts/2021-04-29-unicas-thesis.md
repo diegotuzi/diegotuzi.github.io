@@ -23,6 +23,9 @@ Acquired and consolidated skills:
 * Zotero
 * Gimp
 * Blackmagic Davinci Resolve
+* Scientific writing
+* Public speaking
+* Presentation
 
 Resources:
 * [Thesis presentation](/assets/pdf/2021-04-29_unicas_master_thesis-slides.pdf)

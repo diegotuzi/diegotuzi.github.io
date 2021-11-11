@@ -112,6 +112,9 @@ DIGITAL BASICS
 LAB INSTRUMENTS
 * Power Supply, RF Signal Generator, Oscilloscope, Network Analyzer, Spectrum Analyzer, Network Scanner R&S TSMA6
 
+SOFT SKILLS
+* Comunicazione, Atteggiamento positivo, Problem solving, Presentazioni, Parlare in pubblico, Scrittura scientifica, Scrittura di report, Teamwork, Leadership
+
 ---
 
 Competenze linguistiche

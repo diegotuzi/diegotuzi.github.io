@@ -21,6 +21,9 @@ Acquired and consolidated skills:
 * nesC, Python
 * Eclipse IDE
 * Microsoft Office
+* Presentation
+* Teamwork
+* Leadership
 
 Resources:
 * [IoT Polling Protocol Presentation](/assets/pdf/2011-07-05-polimi-iot.pdf)

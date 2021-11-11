@@ -17,6 +17,9 @@ Acquired and consolidated skills:
 * Software Defined Radio (SDR)
 * [Ettus USRP E310](https://www.ettus.com/all-products/e310/)
 * Matlab GUI
+* Presentation
+* Teamwork
+* Leadership
 
 Resources:
 * [SCOS User Manual](/assets/pdf/2018-06-03_unicas_imcs_scos_user_manual.pdf)

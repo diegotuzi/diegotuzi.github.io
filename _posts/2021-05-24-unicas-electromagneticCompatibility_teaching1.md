@@ -20,6 +20,7 @@ Acquired and consolidated skills:
 * Python
 * Libre Office Suite
 * Public Speaking
+* Presentation
 
 Resources:
 * [Presentation](/assets/pdf/2021-05-24-unicas-electromagneticCompatibility_teaching-5G.pdf)
