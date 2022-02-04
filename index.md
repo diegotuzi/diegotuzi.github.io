@@ -20,5 +20,6 @@ Inside this website you can find:
 * Resume section: It contains an updated version of my Resume in [English](resume.html) and in [Italian](resume_ita.html);
 * [Changelog section](changelog.html): It's a log section where I'm going to track all the structural updates about this website.
 
-Again, feel free to send any feedback about this Website. Have a nice surfing.
 Thanks to GitHub for hosting this website for free :pray:. 
+
+Again, feel free to send any feedback about this Website. Have a nice surfing.
