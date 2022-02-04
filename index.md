@@ -21,4 +21,4 @@ Inside this website you can find:
 * [Changelog section](changelog.html): It's a log section where I'm going to track all the structural updates about this website.
 
 Again, feel free to send any feedback about this Website. Have a nice surfing.
-Thanks to GitHub to host this website for free :pray:. 
+Thanks to GitHub for hosting this website for free :pray:. 
