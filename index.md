@@ -12,7 +12,7 @@ title: Homepage
 ---
 Welcome to my Website. I’m Diego Tuzi an enthusiastic guy who loves digital technologies. I am an Engineer with a bachelor and a master degree in Telecommunications. I'm also a licenced professional Italian Engineer (since 2021) and a licenced Italian Journalist (since 2008). 
 
-This Website is just a way to practice my writing skylls in different languages. I'm not only referring to human languages, such as Italian or English, but I'm also referring to computer languages. For example, what you're reading right now was written using [markdown](https://en.wikipedia.org/wiki/Markdown). 
+This Website is just a way to practice my writing skylls in different languages. I'm not only referring to human languages, such as Italian or English, but I'm also referring to computer languages. For example, what you're reading right now was written using [Markdown](https://en.wikipedia.org/wiki/Markdown). 
 I've been studying English, I'm quite good but not perfect. If you find a mistake, I'll be happy to receive your feedback.
 
 Inside this website you can find:
