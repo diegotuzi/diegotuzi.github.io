@@ -131,7 +131,7 @@ English:
 
 Certifications and Technical training
 ------
-
+* [2022 - EASA (European Union Aviation Safety Agency) - UAS IT PILOT A1 A3 (Official drone pilot categories A1 A3)](/assets/pdf/2022-02-04-certificate_UAS_pilot.pdf)
 * [2020 - Keysight Technologies - Understanding 5G New Radio (NR) Standards - A Primer](https://verify.skilljar.com/c/z6uts65inx8j)
 * [2020 - Keysight Technologies - Understanding 5G Dynamic Spectrum Sharing (DSS)](https://verify.skilljar.com/c/oxp4gnm3qtd3)
 * [2020 - Keysight Technologies - O-RAN: The 5G Path Forward](https://verify.skilljar.com/c/btao4mdhktv7)
