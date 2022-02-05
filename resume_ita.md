@@ -80,6 +80,11 @@ Agosto 2021 - Oggi<br>
 [Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/elenco-iscritti/?iscritto=2789), Frosinone (FR) Italy<br>
 Numero di iscrizione: 2789 - Sezione: A - Settore: Ingegneria dell'Informazione
 
+Maggio 2008 - Oggi<br>
+**ISCRIZIONE ALL'ALBO DEI GIORNALISTI**<br>
+[Ordine dei Giornalisti D’Abruzzo](https://www.odg.abruzzo.it/albo/?search=diego+tuzi&categoria=PUB), L'Aquila (AQ) Italy<br>
+Category: Pubblicista
+
 ---
 
 Competenze

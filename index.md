@@ -5,7 +5,7 @@ title: Homepage
 
 <div class="text-center">
     <img src="/assets/img/profile.jpg" alt="Avatar" class="img-fluid img-thumbnail rounded-circle ">
-    <h1>Diego Tuzi Website</h1>
+    <h1>DT Website</h1>
     <h3>Just a way to practice languages</h3>
 </div>
 
@@ -20,6 +20,6 @@ Inside this website you can find:
 * Resume section: It contains an updated version of my Resume in [English](resume.html) and in [Italian](resume_ita.html);
 * [Changelog section](changelog.html): It's a log section where I'm going to track all the structural updates about this website.
 
-Thanks to GitHub for hosting this website for free.
+Thanks to [GitHub](https://pages.github.com/) for hosting this website for free. Thanks to the [Jekyll](https://jekyllrb.com/) Team for this simple way to create a website. 
 
 Again, feel free to send any feedback about this Website. Have a nice surfing.

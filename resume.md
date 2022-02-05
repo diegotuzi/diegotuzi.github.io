@@ -81,6 +81,11 @@ August 2021 - Present<br>
 [Ordine Degli Ingegneri di Frosinone](https://www.ingegneri.fr.it/elenco-iscritti/?iscritto=2789), Frosinone (FR) Italy<br>
 Membership number: 2789 - Section: A - Sector: Information Engineering
 
+May 2008 - Present<br>
+**LICENSED JOURNALIST**<br>
+[Ordine dei Giornalisti D’Abruzzo](https://www.odg.abruzzo.it/albo/?search=diego+tuzi&categoria=PUB), L'Aquila (AQ) Italy<br>
+Category: Pubblicista
+
 ---
 
 Skills
