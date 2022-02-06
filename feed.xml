@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-06T11:00:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diego Tuzi Website</title><subtitle>Diego Tuzi Telecomunication Engineer Personal Website</subtitle><entry><title type="html">Is your network security prepared for post-pandemic world?</title><link href="http://localhost:4000/2021/07/29/webinar-testingforpostpandemicnetwork.html" rel="alternate" type="text/html" title="Is your network security prepared for post-pandemic world?" /><published>2021-07-29T00:00:00+02:00</published><updated>2021-08-02T11:32:56+02:00</updated><id>http://localhost:4000/2021/07/29/webinar-testingforpostpandemicnetwork</id><content type="html" xml:base="http://localhost:4000/2021/07/29/webinar-testingforpostpandemicnetwork.html"><![CDATA[#### Keysight Technologies Digital Event
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-06T11:08:22+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diego Tuzi Website</title><subtitle>Diego Tuzi Telecomunication Engineer Personal Website</subtitle><entry><title type="html">Is your network security prepared for post-pandemic world?</title><link href="http://localhost:4000/2021/07/29/webinar-testingforpostpandemicnetwork.html" rel="alternate" type="text/html" title="Is your network security prepared for post-pandemic world?" /><published>2021-07-29T00:00:00+02:00</published><updated>2021-08-02T11:32:56+02:00</updated><id>http://localhost:4000/2021/07/29/webinar-testingforpostpandemicnetwork</id><content type="html" xml:base="http://localhost:4000/2021/07/29/webinar-testingforpostpandemicnetwork.html"><![CDATA[#### Keysight Technologies Digital Event
 
 I attended the Webinar "Is your network security prepared for post-pandemic world?". Amritam Putatunda held the webinar. He is a Technical Product Manager-Application for Security Ixia Solutions Group at Keysight Technologies.
 Thanks to this webinar I had on overview about the Challenges in Distributed Networks and Security and Performance Test Methodologies.
@@ -104,39 +104,35 @@ Acquired and consolidated skills:
 * Presentation
 
 Resources:
-* [Presentation](/assets/pdf/2021-05-24-unicas-electromagneticCompatibility_teaching-aie.pdf)]]></content><author><name>dt</name></author><category term="Seminars for academic courses" /><summary type="html"><![CDATA[Teaching activity for “Electromagnetic Compatibility: Modelling and Measurements” course University of Cassino and Southern Lazio At the end of my master degree thesis, I organized and conducted a little seminar on “EMF Human Exposure Measurements and Previsional Calculation for wireless systems”. I gave the seminar to “Electromagnetic Compatibility: Modelling and Measurements” students. I gave the seminar during the Academic Year 2020/2021. It was an interesting experience and I was really happy to explain part of my job and to answer to the student’s questions. Acquired and consolidated skills: D. Lgs. n. 259 del 2003 Italian regulations about Human Exposure to EMF Broadband EMF Exposure Measurements EMF Previsional Calculation EMLAB Public Speaking Presentation Resources: Presentation]]></summary></entry><entry><title type="html">4G and 5G control signals: Stability analysis</title><link href="http://localhost:4000/2021/04/29/unicas-thesis.html" rel="alternate" type="text/html" title="4G and 5G control signals: Stability analysis" /><published>2021-04-29T00:00:00+02:00</published><updated>2022-02-06T10:58:21+01:00</updated><id>http://localhost:4000/2021/04/29/unicas-thesis</id><content type="html" xml:base="http://localhost:4000/2021/04/29/unicas-thesis.html"><![CDATA[<h4 id="master-of-science-in-telecommunication-engineering">Master of Science in Telecommunication Engineering</h4>
-<h5 id="university-of-cassino-and-southern-lazio---academic-year-20192020">University of Cassino and Southern Lazio - Academic Year 2019/2020</h5>
+* [Presentation](/assets/pdf/2021-05-24-unicas-electromagneticCompatibility_teaching-aie.pdf)]]></content><author><name>dt</name></author><category term="Seminars for academic courses" /><summary type="html"><![CDATA[Teaching activity for “Electromagnetic Compatibility: Modelling and Measurements” course University of Cassino and Southern Lazio At the end of my master degree thesis, I organized and conducted a little seminar on “EMF Human Exposure Measurements and Previsional Calculation for wireless systems”. I gave the seminar to “Electromagnetic Compatibility: Modelling and Measurements” students. I gave the seminar during the Academic Year 2020/2021. It was an interesting experience and I was really happy to explain part of my job and to answer to the student’s questions. Acquired and consolidated skills: D. Lgs. n. 259 del 2003 Italian regulations about Human Exposure to EMF Broadband EMF Exposure Measurements EMF Previsional Calculation EMLAB Public Speaking Presentation Resources: Presentation]]></summary></entry><entry><title type="html">4G and 5G control signals: Stability analysis</title><link href="http://localhost:4000/2021/04/29/unicas-thesis.html" rel="alternate" type="text/html" title="4G and 5G control signals: Stability analysis" /><published>2021-04-29T00:00:00+02:00</published><updated>2022-02-06T10:58:21+01:00</updated><id>http://localhost:4000/2021/04/29/unicas-thesis</id><content type="html" xml:base="http://localhost:4000/2021/04/29/unicas-thesis.html"><![CDATA[#### Master of Science in Telecommunication Engineering
+##### University of Cassino and Southern Lazio - Academic Year 2019/2020
 
-<p>As a student of University of Cassino and Southern Lazio, I ended my educational path with a thesis work entitled “4G and 5G control signals: Stability analysis”. I worked on the thesis for 8 months. I started with an extensive research part followed by an experimental part. I, Prof. G. Miele (my Supervisor) and Prof. D. Capriglione, Prof. M.D. Migliore and Prof. G. Cerro (my Co-Supervisors) had several meetings during the work to address the activities.</p>
+As a student of University of Cassino and Southern Lazio, I ended my educational path with a thesis work entitled "4G and 5G control signals: Stability analysis". I worked on the thesis for 8 months. I started with an extensive research part followed by an experimental part. I, Prof. G. Miele (my Supervisor) and Prof. D. Capriglione, Prof. M.D. Migliore and Prof. G. Cerro (my Co-Supervisors) had several meetings during the work to address the activities.     
 
-<p><img src="/assets/img/2021-04-29_unicas_thesis_scenario2.jpg" class="img-fluid" alt="Thesis workflow image" /></p>
+<img src="/assets/img/2021-04-29_unicas_thesis_scenario2.jpg" class="img-fluid" alt="Thesis workflow image">
 
-<p>It was an amazing experience. I’m very thankful to the Supervisors for received support and the availability during the thesis work.</p>
+It was an amazing experience. I'm very thankful to the Supervisors for received support and the availability during the thesis work.
 
-<p>Acquired and consolidated skills:</p>
-<ul>
-  <li>Human exposure to RF Fields (WHO/ICNIRP Guidelines, IEC measurement standards)</li>
-  <li>NG-RAN, 5G New Radio (NR), 4G LTE</li>
-  <li>5G Dynamic spectrum Sharing</li>
-  <li>Lab Instruments: Network Scanner R&amp;S TSMA6, Spectrum Analyzer</li>
-  <li>R&amp;S ROMES 4</li>
-  <li>Matlab</li>
-  <li>Python</li>
-  <li>Libre Office Suite</li>
-  <li>Zotero</li>
-  <li>Gimp</li>
-  <li>Blackmagic Davinci Resolve</li>
-  <li>Scientific writing</li>
-  <li>Public speaking</li>
-  <li>Presentation</li>
-</ul>
+Acquired and consolidated skills:
+* Human exposure to RF Fields (WHO/ICNIRP Guidelines, IEC measurement standards)
+* NG-RAN, 5G New Radio (NR), 4G LTE
+* 5G Dynamic spectrum Sharing
+* Lab Instruments: Network Scanner R&S TSMA6, Spectrum Analyzer 
+* R&S ROMES 4
+* Matlab
+* Python
+* Libre Office Suite
+* Zotero
+* Gimp
+* Blackmagic Davinci Resolve
+* Scientific writing
+* Public speaking
+* Presentation
 
-<p>Resources:</p>
-<ul>
-  <li><a href="/assets/pdf/2021-04-29_unicas_master_thesis-slides.pdf">Thesis presentation</a></li>
-  <li><a href="/assets/pdf/2021-04-29_unicas_master_thesis.pdf">Thesis document</a></li>
-  <li><a href="https://youtu.be/0GfSU4wAMzQ">Thesis video</a></li>
-</ul>]]></content><author><name>dt</name></author><category term="Thesis works" /><summary type="html"><![CDATA[Master of Science in Telecommunication Engineering University of Cassino and Southern Lazio - Academic Year 2019/2020 As a student of University of Cassino and Southern Lazio, I ended my educational path with a thesis work entitled “4G and 5G control signals: Stability analysis”. I worked on the thesis for 8 months. I started with an extensive research part followed by an experimental part. I, Prof. G. Miele (my Supervisor) and Prof. D. Capriglione, Prof. M.D. Migliore and Prof. G. Cerro (my Co-Supervisors) had several meetings during the work to address the activities. It was an amazing experience. I’m very thankful to the Supervisors for received support and the availability during the thesis work. Acquired and consolidated skills: Human exposure to RF Fields (WHO/ICNIRP Guidelines, IEC measurement standards) NG-RAN, 5G New Radio (NR), 4G LTE 5G Dynamic spectrum Sharing Lab Instruments: Network Scanner R&amp;S TSMA6, Spectrum Analyzer R&amp;S ROMES 4 Matlab Python Libre Office Suite Zotero Gimp Blackmagic Davinci Resolve Scientific writing Public speaking Presentation Resources: Thesis presentation Thesis document Thesis video]]></summary></entry><entry><title type="html">Pspice simulations and Lab activities</title><link href="http://localhost:4000/2020/06/12/unicas-ecs.html" rel="alternate" type="text/html" title="Pspice simulations and Lab activities" /><published>2020-06-12T00:00:00+02:00</published><updated>2021-11-11T20:07:14+01:00</updated><id>http://localhost:4000/2020/06/12/unicas-ecs</id><content type="html" xml:base="http://localhost:4000/2020/06/12/unicas-ecs.html"><![CDATA[#### Course reports for "Electronics for Communication Systems"
+Resources:
+* [Thesis presentation](/assets/pdf/2021-04-29_unicas_master_thesis-slides.pdf)
+* [Thesis document](/assets/pdf/2021-04-29_unicas_master_thesis.pdf)
+* [Thesis video](https://youtu.be/0GfSU4wAMzQ)]]></content><author><name>dt</name></author><category term="Thesis works" /><summary type="html"><![CDATA[Master of Science in Telecommunication Engineering University of Cassino and Southern Lazio - Academic Year 2019/2020 As a student of University of Cassino and Southern Lazio, I ended my educational path with a thesis work entitled “4G and 5G control signals: Stability analysis”. I worked on the thesis for 8 months. I started with an extensive research part followed by an experimental part. I, Prof. G. Miele (my Supervisor) and Prof. D. Capriglione, Prof. M.D. Migliore and Prof. G. Cerro (my Co-Supervisors) had several meetings during the work to address the activities. It was an amazing experience. I’m very thankful to the Supervisors for received support and the availability during the thesis work. Acquired and consolidated skills: Human exposure to RF Fields (WHO/ICNIRP Guidelines, IEC measurement standards) NG-RAN, 5G New Radio (NR), 4G LTE 5G Dynamic spectrum Sharing Lab Instruments: Network Scanner R&amp;S TSMA6, Spectrum Analyzer R&amp;S ROMES 4 Matlab Python Libre Office Suite Zotero Gimp Blackmagic Davinci Resolve Scientific writing Public speaking Presentation Resources: Thesis presentation Thesis document Thesis video]]></summary></entry><entry><title type="html">Pspice simulations and Lab activities</title><link href="http://localhost:4000/2020/06/12/unicas-ecs.html" rel="alternate" type="text/html" title="Pspice simulations and Lab activities" /><published>2020-06-12T00:00:00+02:00</published><updated>2021-11-11T20:07:14+01:00</updated><id>http://localhost:4000/2020/06/12/unicas-ecs</id><content type="html" xml:base="http://localhost:4000/2020/06/12/unicas-ecs.html"><![CDATA[#### Course reports for "Electronics for Communication Systems"
 ##### University of Cassino and Southern Lazio - Academic Year 2018/2019
 
 As a student of University of Cassino and Southern Lazio, I realized several reports inside the master course "Electronics for Communication Systems" held by Prof. G. Busatto and Prof. C. Abbate.
