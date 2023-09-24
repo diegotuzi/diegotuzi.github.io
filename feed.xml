@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-24T11:11:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diego Tuzi Website</title><subtitle>Diego Tuzi Telecomunication Engineer Personal Website</subtitle><entry><title type="html">Seminar - 4G and 5G control signals, Stability analysis</title><link href="http://localhost:4000/2021/05/24/unicas-electromagneticCompatibility_teaching1.html" rel="alternate" type="text/html" title="Seminar - 4G and 5G control signals, Stability analysis" /><published>2021-05-24T00:00:00+02:00</published><updated>2023-09-24T10:48:31+02:00</updated><id>http://localhost:4000/2021/05/24/unicas-electromagneticCompatibility_teaching1</id><content type="html" xml:base="http://localhost:4000/2021/05/24/unicas-electromagneticCompatibility_teaching1.html"><![CDATA[<h4 id="teaching-activity-for-electromagnetic-compatibility-modelling-and-measurements-course">Teaching activity for “Electromagnetic Compatibility: Modelling and Measurements” course</h4>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-24T19:15:54+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diego Tuzi Website</title><subtitle>Diego Tuzi Telecomunication Engineer Personal Website</subtitle><entry><title type="html">Project - Satellite Network of Experts V (SatNEx V) - Distributed Beamforming of Satellite Swarms</title><link href="http://localhost:4000/2023/09/24/unibw-satnexv.html" rel="alternate" type="text/html" title="Project - Satellite Network of Experts V (SatNEx V) - Distributed Beamforming of Satellite Swarms" /><published>2023-09-24T00:00:00+02:00</published><updated>2023-09-24T15:45:54+02:00</updated><id>http://localhost:4000/2023/09/24/unibw-satnexv</id><content type="html" xml:base="http://localhost:4000/2023/09/24/unibw-satnexv.html"><![CDATA[<h4 id="european-space-agency-esa-project-within-the-framework-technology-development-programme">European Space Agency (ESA) project within the framework Technology Development Programme</h4>
+<h5 id="university-of-the-bundeswehr-munich-university-of-bremen">University of the Bundeswehr Munich, University of Bremen</h5>
+
+<p>Resources:</p>
+<ul>
+  <li><a href="https://satnex5.cttc.es/">SatNEx V website</a></li>
+  <li><a href="https://connectivity.esa.int/projects/satnex-v">ESA project website</a></li>
+</ul>]]></content><author><name>dt</name></author><category term="PhD" /><summary type="html"><![CDATA[European Space Agency (ESA) project within the framework Technology Development Programme University of the Bundeswehr Munich, University of Bremen Resources: SatNEx V website ESA project website]]></summary></entry><entry><title type="html">Seminar - 4G and 5G control signals, Stability analysis</title><link href="http://localhost:4000/2021/05/24/unicas-electromagneticCompatibility_teaching1.html" rel="alternate" type="text/html" title="Seminar - 4G and 5G control signals, Stability analysis" /><published>2021-05-24T00:00:00+02:00</published><updated>2023-09-24T10:48:31+02:00</updated><id>http://localhost:4000/2021/05/24/unicas-electromagneticCompatibility_teaching1</id><content type="html" xml:base="http://localhost:4000/2021/05/24/unicas-electromagneticCompatibility_teaching1.html"><![CDATA[<h4 id="teaching-activity-for-electromagnetic-compatibility-modelling-and-measurements-course">Teaching activity for “Electromagnetic Compatibility: Modelling and Measurements” course</h4>
 <h5 id="university-of-cassino-and-southern-lazio">University of Cassino and Southern Lazio</h5>
 
 <p>At the end of my master degree thesis, I introduced my thesis work to students of the course “Electromagnetic Compatibility: Modelling and Measurements” held by Prof. Domenico Capriglione during the Academic Year 2020/2021. It was an interesting experience and I was really happy to explain my thesis work and to answer to the student’s questions.
@@ -214,30 +221,4 @@ It was an interesting experience and I was really happy to explain my work and t
 <p>Resources:</p>
 <ul>
   <li><a href="/assets/pdf/2014-02-01-polimi-unbundlingTheOpticalAccess-proposal.pdf">Survey</a></li>
-</ul>]]></content><author><name>dt</name></author><category term="BSc and MSc" /><summary type="html"><![CDATA[Collaboration with Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) Politecnico di Milano - Academic Year 2013/2014 As a student and graduand of Politecnico di Milano, I started a collaboration with Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) and in particular with Prof. Guido Maier. During this collaboration I realized a survey on the Long Reach PON. Acquired and consolidated skills: Passive Optical Networks (PONs) Long Reach PON Optical fibers Matlab Microsoft Office Scientific writing Resources: Survey]]></summary></entry><entry><title type="html">Project - Android Bluetooth Ranging</title><link href="http://localhost:4000/2012/07/27/polimi-scni.html" rel="alternate" type="text/html" title="Project - Android Bluetooth Ranging" /><published>2012-07-27T00:00:00+02:00</published><updated>2023-09-24T10:46:00+02:00</updated><id>http://localhost:4000/2012/07/27/polimi-scni</id><content type="html" xml:base="http://localhost:4000/2012/07/27/polimi-scni.html"><![CDATA[<h4 id="course-project-for-localization-navigation-and-smart-mobility">Course Project for “Localization Navigation and Smart Mobility”</h4>
-<h5 id="politecnico-di-milano---academic-year-20112012">Politecnico di Milano - Academic Year 2011/2012</h5>
-
-<p>As a student of Politecnico di Milano, I and other teammates developed this project inside the master course “Localization Navigation and Smart Mobility” held by Prof. Monica Nicoli.
-The project is an Android application. It estimates the distance between mobile terminals doing bluetooth measurements.</p>
-
-<p><img src="/assets/img/2012-07-27-polimi-scni.jpg" class="img-fluid" alt="android ranging image" /></p>
-
-<p>Acquired and consolidated skills:</p>
-<ul>
-  <li>Localization systems</li>
-  <li>Bluetooth</li>
-  <li>Android development</li>
-  <li>Bluetooth Android API</li>
-  <li>Java</li>
-  <li>Eclipse IDE</li>
-  <li>Matlab</li>
-  <li>Microsoft Office</li>
-  <li>Presentation</li>
-  <li>Teamwork</li>
-  <li>Leadership</li>
-</ul>
-
-<p>Resources:</p>
-<ul>
-  <li><a href="/assets/pdf/2018-06-03_unicas_imcs_scos_user_manual.pdf">Android Bluetooth Ranging Presentation</a></li>
-</ul>]]></content><author><name>dt</name></author><category term="BSc and MSc" /><summary type="html"><![CDATA[Course Project for “Localization Navigation and Smart Mobility” Politecnico di Milano - Academic Year 2011/2012 As a student of Politecnico di Milano, I and other teammates developed this project inside the master course “Localization Navigation and Smart Mobility” held by Prof. Monica Nicoli. The project is an Android application. It estimates the distance between mobile terminals doing bluetooth measurements. Acquired and consolidated skills: Localization systems Bluetooth Android development Bluetooth Android API Java Eclipse IDE Matlab Microsoft Office Presentation Teamwork Leadership Resources: Android Bluetooth Ranging Presentation]]></summary></entry></feed>
+</ul>]]></content><author><name>dt</name></author><category term="BSc and MSc" /><summary type="html"><![CDATA[Collaboration with Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) Politecnico di Milano - Academic Year 2013/2014 As a student and graduand of Politecnico di Milano, I started a collaboration with Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) and in particular with Prof. Guido Maier. During this collaboration I realized a survey on the Long Reach PON. Acquired and consolidated skills: Passive Optical Networks (PONs) Long Reach PON Optical fibers Matlab Microsoft Office Scientific writing Resources: Survey]]></summary></entry></feed>
